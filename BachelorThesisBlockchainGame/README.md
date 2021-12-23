@@ -1,4 +1,4 @@
-# blockchain-mobile-game-BSc
+# This is my bachelor thesis. It is a Card Game implemented on the Ethereum blockchain.
 
 JsServer = Server that communicates with the blockchain.
 
