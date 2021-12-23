@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MMLABapp</string>
+    <string name="game_view_content_description">Game <view></view></string>
+
+</resources>
