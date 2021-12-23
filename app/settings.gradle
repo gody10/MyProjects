@@ -1,5 +1,0 @@
-include ':app'
-rootProject.name = "MMLABapp"
-
-include ':unityLibrary'
-project(':unityLibrary').projectDir=new File('C:\\Users\\gragas\\Desktop\\Sxoli\\MMLab\\MobileGameWithBlockChain\\blockchain-mobile-game-BSc\\MMLABapp\\unityLibrary')
