@@ -1,1 +1,1 @@
-# In this course I had to create various projects in VHDL
+# In this course I had create a simple CPU in VHDL
