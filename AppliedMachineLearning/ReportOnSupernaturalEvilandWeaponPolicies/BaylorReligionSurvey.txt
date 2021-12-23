@@ -1,0 +1,3790 @@
+Data File: BRS2014 (Full Data Codebook)
+
+1) MOTHERLODE_ID
+Motherlode ID
+RANGE: 128170892 to 128172923
+	N	Mean	Std. Deviation
+Total	1572	128171789.094	589.401
+
+
+2) PROJECT_ID
+Project ID
+RANGE: 33370 to 33371
+	N	Mean	Std. Deviation
+Total	1572	33370.022	0.146
+33370) 	1538	97.8
+33371) 	34	2.2
+
+
+3) RESPONDENT_ID
+Respondent ID
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+4) METHOD_ID
+Method ID
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+5) METHOD_TYPE
+Method type
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+6) PROJECT_NUMBER
+Project number
+RANGE: 162048140 to 162048140
+	N	Mean	Std. Deviation
+Total	1572	162048140	0
+162048140) 	1572	100.0
+
+
+7) CREATED_ON
+Created on
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+8) PRACTICE
+Practice
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+9) RESPONDENT_DATE
+Respondent Date
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+10) RESPONDENT_LANGUAGE
+Respondent Language
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+11) TEMPLATE_NUMBER_162048140
+TEMPLATE_NUMBER_162048140
+RANGE: 162048140 to 162048140
+	N	Mean	Std. Deviation
+Total	1572	162048140	0
+162048140) 	1572	100.0
+
+
+12) ENTITY_ID
+Entity ID
+RANGE: 4139817938 to 4139838166
+	N	Mean	Std. Deviation
+Total	1572	4139833067.919	4662.307
+
+
+13) SCAN_RESPONDENT_ID
+SCAN_RESPONDENT_ID
+RANGE: 4139817938 to 4139838166
+	N	Mean	Std. Deviation
+Total	1572	4139833067.919	4662.307
+
+
+14) AUTO_INCREMENT
+Auto Increment
+RANGE: 1 to 1864
+	N	Mean	Std. Deviation
+Total	1572	831.401	522.918
+
+
+15) CASEID
+Caseid AUTO_INCREMENT
+RANGE: 1 to 1864
+	N	Mean	Std. Deviation
+Total	1572	831.401	522.918
+
+
+16) BATCH_ID
+Batch ID
+RANGE: 1 to 75
+	N	Mean	Std. Deviation
+Total	1572	33.784	20.931
+
+
+17) LANG1
+LANG1
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+18) Q1
+With what religious family, if any, do you most closely identify? (Please mark only one box.)
+RANGE: 1 to 9998
+	N	Mean	Std. Deviation
+Total	1550	91.459	798.668
+1) Other	40	2.6
+6) Adventist	1	0.1
+7) African Methodist	6	0.4
+8) Anabaptist	2	0.1
+9) Asian Folk Religion	1	0.1
+10) Assemblies of God	8	0.5
+11) Baha'i	3	0.2
+12) Baptist	208	13.4
+13) Bible Church	12	0.8
+14) Brethren	1	0.1
+15) Buddhist	10	0.6
+16) Catholic/Roman Catholic	367	23.7
+17) Christian & Missionary Alliance	10	0.6
+18) Christian Reformed	14	0.9
+19) Christian Science	4	0.3
+20) Church of Christ	28	1.8
+21) Church of God	20	1.3
+22) Church of the Nazarene	6	0.4
+23) Congregational	8	0.5
+24) Disciples of Christ	7	0.5
+25) Episcopal/Anglican	24	1.5
+26) Hindu	4	0.3
+27) Holiness	5	0.3
+28) Jehovah's Witnesses	7	0.5
+29) Jewish	33	2.1
+30) Latter-day Saints	25	1.6
+31) Lutheran	86	5.5
+32) Mennonite	3	0.2
+33) Methodist	74	4.8
+34) Muslim	8	0.5
+35) Orthodox (Eastern, Russian, Greek)	6	0.4
+36) Pentecostal	25	1.6
+37) Presbyterian	42	2.7
+38) Quaker/Friends	4	0.3
+39) Reformed Church of America/Dutch Reformed	3	0.2
+40) Salvation Army	1	0.1
+41) Seventh-day Adventist	2	0.1
+43) Unitarian Universalist	10	0.6
+44) United Church of Christ	12	0.8
+45) Non-denominational Christian	186	12.0
+46) No religion [Skip to Q3]	224	14.5
+9998) Don't know	10	0.6
+Missing	22
+
+
+19) Q2_DK
+If possible, please provide the specific name of your denomination/sect. For example, if you are Baptist, are you Southern Baptist Convention, American Baptist Churches in the USA, or some other Baptist denomination? Don't know
+RANGE: 1 to 1
+	N	Mean	Std. Deviation
+Total	254	1	0
+1) 	254	100.0
+Missing	1318
+
+
+20) Q3
+How religious do you consider yourself to be?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1553	2.816	1.221
+1) Not religious	277	17.8
+2) Slightly religious	265	17.1
+3) Moderately religious	569	36.6
+4) Very religious	419	27.0
+8) I don't know	23	1.5
+Missing	19
+
+
+21) Q3_1
+How spiritual do you consider yourself to be?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1553	3.337	1.09
+1) Not at all spiritual	109	7.0
+2) Not too spiritual	131	8.4
+3) Somewhat spiritual	556	35.8
+4) Very spiritual	728	46.9
+8) I don't know	29	1.9
+Missing	19
+
+
+22) Q4
+How often do you attend religious services at a place of worship?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1556	3.677	2.933
+0) Never [Skip to Q25] [ARDA Note: The skip pattern was adjusted to be applicable to the variable order in the data set.]	378	24.3
+1) Less than once a year	123	7.9
+2) Once or twice a year	159	10.2
+3) Several times a year	161	10.3
+4) Once a month	39	2.5
+5) 2-3 times a month	119	7.6
+6) About weekly	111	7.1
+7) Weekly	348	22.4
+8) Several times a week	118	7.6
+Missing	16
+
+
+23) Q7
+How long have you attended your current place of worship?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1143	3.311	1.476
+1) 1 year or less	173	15.1
+2) 2-4 years	230	20.1
+3) 5-9 years	180	15.7
+4) 10-19 years	188	16.4
+5) 20 or more years	372	32.5
+Missing	429
+
+
+24) Q8
+On average, how many people attend services at your current place of worship? Just your best estimate will do.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1147	3.154	2.171
+1) Less than 100	256	22.3
+2) 100-299	361	31.5
+3) 300-799	201	17.5
+4) 800-999	41	3.6
+5) 1,000-1,999	83	7.2
+6) 2,000 or more	91	7.9
+8) I don't know	114	9.9
+Missing	425
+
+
+25) Q25
+Which one of the following best describes you?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1549	3.099	1.487
+1) Religious but not spiritual	64	4.1
+2) Spiritual but not religious	411	26.5
+3) Both religious and spiritual	797	51.5
+4) Neither religious nor spiritual	173	11.2
+8) I don't know	104	6.7
+Missing	23
+
+
+26) Q10
+About how often do you spend time alone praying outside of religious services?
+RANGE: 0 to 5
+	N	Mean	Std. Deviation
+Total	1551	2.9	1.832
+0) Never	231	14.9
+1) Only on certain occasions	255	16.4
+2) Once a week or less	109	7.0
+3) A few times a week	226	14.6
+4) Once a day	303	19.5
+5) Several times a day	427	27.5
+Missing	21
+
+
+27) Q11
+Outside of attending religious services, about how often do you spend time alone reading the Bible, Koran, Torah, or other sacred book?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1540	3.197	3.14
+0) Never	517	33.6
+1) Less than once a year	150	9.7
+2) Once or twice a year	119	7.7
+3) Several times a year	161	10.5
+4) Once a month	48	3.1
+5) Two to three times a month	87	5.6
+6) About weekly	77	5.0
+7) Weekly	84	5.5
+8) Several times a week	297	19.3
+Missing	32
+
+
+28) Q13A
+How often did you participate in the following religious or faith-based activities in the last month? Church social gatherings like fellowships or potlucks
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1496	1.501	0.802
+1) Not at all	974	65.1
+2) 1-2 times	362	24.2
+3) 3-4 times	93	6.2
+4) 5 or more times	67	4.5
+Missing	76
+
+
+29) Q13B
+How often did you participate in the following religious or faith-based activities in the last month? Religious education programs, such as Bible study or Sunday school
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1480	1.559	0.951
+1) Not at all	1032	69.7
+2) 1-2 times	177	12.0
+3) 3-4 times	163	11.0
+4) 5 or more times	108	7.3
+Missing	92
+
+
+30) Q13C
+How often did you participate in the following religious or faith-based activities in the last month? Choir practice or other musical programs
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1462	1.185	0.583
+1) Not at all	1300	88.9
+2) 1-2 times	84	5.7
+3) 3-4 times	48	3.3
+4) 5 or more times	30	2.1
+Missing	110
+
+
+31) Q13D
+How often did you participate in the following religious or faith-based activities in the last month? Discussion groups about faith in the workplace
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1458	1.235	0.615
+1) Not at all	1225	84.0
+2) 1-2 times	157	10.8
+3) 3-4 times	42	2.9
+4) 5 or more times	34	2.3
+Missing	114
+
+
+32) Q13E
+How often did you participate in the following religious or faith-based activities in the last month? Witnessing/sharing your faith with friends
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1487	1.718	0.964
+1) Not at all	826	55.5
+2) 1-2 times	389	26.2
+3) 3-4 times	138	9.3
+4) 5 or more times	134	9.0
+Missing	85
+
+
+33) Q13F
+How often did you participate in the following religious or faith-based activities in the last month? Witnessing/sharing your faith with strangers
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1460	1.377	0.74
+1) Not at all	1079	73.9
+2) 1-2 times	271	18.6
+3) 3-4 times	51	3.5
+4) 5 or more times	59	4.0
+Missing	112
+
+
+34) Q13G
+How often did you participate in the following religious or faith-based activities in the last month? Community prayer group not affiliated or sponsored by a congregation (e.g., in the neighborhood, at work, etc.)
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1460	1.136	0.484
+1) Not at all	1325	90.8
+2) 1-2 times	92	6.3
+3) 3-4 times	22	1.5
+4) 5 or more times	21	1.4
+Missing	112
+
+
+35) Q13H
+How often did you participate in the following religious or faith-based activities in the last month? Community Bible study not affiliated or sponsored by a congregation (e.g., in the neighborhood, at work, etc.)
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1462	1.092	0.407
+1) Not at all	1374	94.0
+2) 1-2 times	54	3.7
+3) 3-4 times	21	1.4
+4) 5 or more times	13	0.9
+Missing	110
+
+
+36) Q13I
+How often did you participate in the following religious or faith-based activities in the last month? Counseling programs sponsored by a place of worship
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1462	1.073	0.346
+1) Not at all	1384	94.7
+2) 1-2 times	58	4.0
+3) 3-4 times	11	0.8
+4) 5 or more times	9	0.6
+Missing	110
+
+
+37) Q13J
+How often did you participate in the following religious or faith-based activities in the last month? Going to confession
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1465	1.097	0.368
+1) Not at all	1350	92.2
+2) 1-2 times	96	6.6
+3) 3-4 times	11	0.8
+4) 5 or more times	8	0.5
+Missing	107
+
+
+38) Q13K
+How often did you participate in the following religious or faith-based activities in the last month? Praying the rosary
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1472	1.179	0.606
+1) Not at all	1322	89.8
+2) 1-2 times	86	5.8
+3) 3-4 times	15	1.0
+4) 5 or more times	49	3.3
+Missing	100
+
+
+39) Q13L
+How often did you participate in the following religious or faith-based activities in the last month? Speaking or praying in tongues
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1467	1.137	0.565
+1) Not at all	1369	93.3
+2) 1-2 times	39	2.7
+3) 3-4 times	15	1.0
+4) 5 or more times	44	3.0
+Missing	105
+
+
+40) Q14A
+How many of your friends: Attend your place of worship?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1513	2.735	2.92
+0) None	255	16.9
+1) A few	570	37.7
+2) About half	169	11.2
+3) Most	162	10.7
+4) All	28	1.9
+8) Does not apply	329	21.7
+Missing	59
+
+
+41) Q14B
+How many of your friends: Attend a different place of worship?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1476	2.696	2.453
+0) None	88	6.0
+1) A few	562	38.1
+2) About half	247	16.7
+3) Most	300	20.3
+4) All	52	3.5
+8) Does not apply	227	15.4
+Missing	96
+
+
+42) Q14C
+How many of your friends: Do not attend religious services?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1464	2.389	2.38
+0) None	104	7.1
+1) A few	694	47.4
+2) About half	207	14.1
+3) Most	226	15.4
+4) All	38	2.6
+8) Does not apply	195	13.3
+Missing	108
+
+
+43) Q14D
+How many of your friends: Are black or African American?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1469	1.826	2.404
+0) None	359	24.4
+1) A few	732	49.8
+2) About half	77	5.2
+3) Most	83	5.7
+4) All	49	3.3
+8) Does not apply	169	11.5
+Missing	103
+
+
+44) Q14E
+How many of your friends: Are Asian or Asian American?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1456	1.618	2.611
+0) None	590	40.5
+1) A few	605	41.6
+2) About half	30	2.1
+3) Most	21	1.4
+4) All	13	0.9
+8) Does not apply	197	13.5
+Missing	116
+
+
+45) Q14F
+How many of your friends: Are Latino or Hispanic American?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1467	1.819	2.473
+0) None	409	27.9
+1) A few	676	46.1
+2) About half	88	6.0
+3) Most	79	5.4
+4) All	35	2.4
+8) Does not apply	180	12.3
+Missing	105
+
+
+46) Q14G
+How many of your friends: Are white non-Hispanic American?
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1468	2.682	2.187
+0) None	188	12.8
+1) A few	306	20.8
+2) About half	189	12.9
+3) Most	519	35.4
+4) All	108	7.4
+8) Does not apply	158	10.8
+Missing	104
+
+
+47) Q17
+Which one statement comes closest to your personal beliefs about the Bible? (Please mark only one box.)
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1549	2.911	1.954
+1) The Bible means exactly what it says. It should be taken literally, word-for-word, on all subjects.	355	22.9
+2) The Bible is perfectly true, but it should not be taken literally, word-for-word. We must interpret its meaning.	524	33.8
+3) The Bible contains some human error.	150	9.7
+4) The Bible is an ancient book of history and legends.	376	24.3
+8) I don't know.	144	9.3
+Missing	23
+
+
+48) Q18
+Which one statement comes closest to your personal beliefs about God? (Please mark only one box.)
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1554	2.154	1.798
+1) I have no doubts that God exists.	978	62.9
+2) I believe in God, but with some doubts.	148	9.5
+3) I sometimes believe in God.	32	2.1
+4) I believe in a higher power or cosmic force.	187	12.0
+5) I don't know and there is no way to find out.	71	4.6
+6) I do not believe in God. [Skip to Q23A]	105	6.8
+7) I have no opinion.	19	1.2
+8) None of these	14	0.9
+Missing	18
+
+
+49) Q9
+During the last year, approximately how much money (if any) did you and other family members in your household contribute to your current place of worship?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1108	3.033	2.235
+1) Under $100	377	34.0
+2) $100 - $499	231	20.8
+3) $500 - $999	128	11.6
+4) $1,000 - $1,999	125	11.3
+5) $2,000 - $2,999	73	6.6
+6) $3,000 - $3,999	48	4.3
+7) $4,000 - $4,999	23	2.1
+8) $5,000 or more	103	9.3
+Missing	464
+
+
+50) Q19A
+Based on your personal understanding, what do you think God is like? Concerned with the well-being of the world
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1373	3.407	0.886
+1) Strongly disagree	94	6.8
+2) Disagree	91	6.6
+3) Agree	350	25.5
+4) Strongly agree	838	61.0
+Missing	199
+
+
+51) Q19B
+Based on your personal understanding, what do you think God is like? Angered by my sins
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1267	2.425	1.009
+1) Strongly disagree	265	20.9
+2) Disagree	423	33.4
+3) Agree	354	27.9
+4) Strongly agree	225	17.8
+Missing	305
+
+
+52) Q19C
+Based on your personal understanding, what do you think God is like? Directly involved in world affairs
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1264	2.619	1.041
+1) Strongly disagree	213	16.9
+2) Disagree	377	29.8
+3) Agree	352	27.8
+4) Strongly agree	322	25.5
+Missing	308
+
+
+53) Q19D
+Based on your personal understanding, what do you think God is like? Concerned with my personal well-being
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1291	3.246	0.942
+1) Strongly disagree	108	8.4
+2) Disagree	128	9.9
+3) Agree	393	30.4
+4) Strongly agree	662	51.3
+Missing	281
+
+
+54) Q19E
+Based on your personal understanding, what do you think God is like? Directly involved in my affairs
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1285	2.889	1.033
+1) Strongly disagree	154	12.0
+2) Disagree	302	23.5
+3) Agree	362	28.2
+4) Strongly agree	467	36.3
+Missing	287
+
+
+55) Q19F
+Based on your personal understanding, what do you think God is like? Angered by human sins
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1289	2.619	1.038
+1) Strongly disagree	223	17.3
+2) Disagree	364	28.2
+3) Agree	383	29.7
+4) Strongly agree	319	24.7
+Missing	283
+
+
+56) Q20A
+How well do you feel that each of the following words describe God in your opinion? Absolute
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1323	3.401	0.988
+1) Not at all	130	9.8
+2) Not very well	97	7.3
+3) Somewhat well	209	15.8
+4) Very well	887	67.0
+Missing	249
+
+
+57) Q20B
+How well do you feel that each of the following words describe God in your opinion? Critical
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1263	2.126	1.08
+1) Not at all	472	37.4
+2) Not very well	355	28.1
+3) Somewhat well	241	19.1
+4) Very well	195	15.4
+Missing	309
+
+
+58) Q20C
+How well do you feel that each of the following words describe God in your opinion? Fatherly
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1334	3.424	0.981
+1) Not at all	138	10.3
+2) Not very well	65	4.9
+3) Somewhat well	225	16.9
+4) Very well	906	67.9
+Missing	238
+
+
+59) Q20D
+How well do you feel that each of the following words describe God in your opinion? Punishing
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1273	2.17	1.104
+1) Not at all	469	36.8
+2) Not very well	336	26.4
+3) Somewhat well	251	19.7
+4) Very well	217	17.0
+Missing	299
+
+
+60) Q20E
+How well do you feel that each of the following words describe God in your opinion? Just
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1321	3.369	1.004
+1) Not at all	145	11.0
+2) Not very well	77	5.8
+3) Somewhat well	244	18.5
+4) Very well	855	64.7
+Missing	251
+
+
+61) Q20F
+How well do you feel that each of the following words describe God in your opinion? Wrathful
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1256	2.118	1.112
+1) Not at all	499	39.7
+2) Not very well	321	25.6
+3) Somewhat well	225	17.9
+4) Very well	211	16.8
+Missing	316
+
+
+62) Q20G
+How well do you feel that each of the following words describe God in your opinion? Forgiving
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1357	3.604	0.862
+1) Not at all	102	7.5
+2) Not very well	35	2.6
+3) Somewhat well	162	11.9
+4) Very well	1058	78.0
+Missing	215
+
+
+63) Q20H
+How well do you feel that each of the following words describe God in your opinion? Severe
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1271	2.024	1.083
+1) Not at all	543	42.7
+2) Not very well	342	26.9
+3) Somewhat well	199	15.7
+4) Very well	187	14.7
+Missing	301
+
+
+64) Q21
+What is the primary way you know how God wants you to live? Choose the best answer that applies to you.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1408	2.923	1.267
+1) From religious teachings	220	15.6
+2) From the Bible	397	28.2
+3) Through human reason	193	13.7
+4) I know in my heart of through my experience with God	467	33.2
+5) I don't know	131	9.3
+Missing	164
+
+
+65) Q23A
+In your opinion, does each of the following exist? The Devil/Satan
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1504	3.15	1.108
+1) Absolutely not	213	14.2
+2) Probably not	188	12.5
+3) Probably	264	17.6
+4) Absolutely	839	55.8
+Missing	68
+
+
+66) Q23B
+In your opinion, does each of the following exist? Heaven
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1524	3.339	1.018
+1) Absolutely not	156	10.2
+2) Probably not	151	9.9
+3) Probably	238	15.6
+4) Absolutely	979	64.2
+Missing	48
+
+
+67) Q23C
+In your opinion, does each of the following exist? Hell
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1499	3.089	1.115
+1) Absolutely not	217	14.5
+2) Probably not	219	14.6
+3) Probably	277	18.5
+4) Absolutely	786	52.4
+Missing	73
+
+
+68) Q23D
+In your opinion, does each of the following exist? Purgatory
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1454	2.343	1.112
+1) Absolutely not	423	29.1
+2) Probably not	420	28.9
+3) Probably	300	20.6
+4) Absolutely	311	21.4
+Missing	118
+
+
+69) Q23E
+In your opinion, does each of the following exist? Armageddon
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1432	2.617	1.102
+1) Absolutely not	289	20.2
+2) Probably not	382	26.7
+3) Probably	350	24.4
+4) Absolutely	411	28.7
+Missing	140
+
+
+70) Q23F
+In your opinion, does each of the following exist? Angels
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1509	3.294	1.025
+1) Absolutely not	164	10.9
+2) Probably not	144	9.5
+3) Probably	285	18.9
+4) Absolutely	916	60.7
+Missing	63
+
+
+71) Q23G
+In your opinion, does each of the following exist? Demons
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1492	3.016	1.108
+1) Absolutely not	224	15.0
+2) Probably not	232	15.5
+3) Probably	332	22.3
+4) Absolutely	704	47.2
+Missing	80
+
+
+72) Q24A
+Please indicate your level of agreement with the following statements. I believe in ultimate truth in life.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1440	3.149	0.85
+1) Strongly disagree	74	5.1
+2) Disagree	206	14.3
+3) Agree	591	41.0
+4) Strongly agree	569	39.5
+Missing	132
+
+
+73) Q24B
+Please indicate your level of agreement with the following statements. It is useless to try to discover the purpose of my life.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1436	1.79	0.812
+1) Strongly disagree	594	41.4
+2) Disagree	610	42.5
+3) Agree	171	11.9
+4) Strongly agree	61	4.2
+Missing	136
+
+
+74) Q24C
+Please indicate your level of agreement with the following statements. It is important to have a significant philosophy of life.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1441	3.134	0.702
+1) Strongly disagree	40	2.8
+2) Disagree	151	10.5
+3) Agree	826	57.3
+4) Strongly agree	424	29.4
+Missing	131
+
+
+75) Q24D
+Please indicate your level of agreement with the following statements. I know my purpose in life.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1455	2.882	0.792
+1) Strongly disagree	71	4.9
+2) Disagree	339	23.3
+3) Agree	736	50.6
+4) Strongly agree	309	21.2
+Missing	117
+
+
+76) Q24E
+Please indicate your level of agreement with the following statements. My purpose is part of a much larger plan.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1454	3.069	0.899
+1) Strongly disagree	99	6.8
+2) Disagree	244	16.8
+3) Agree	569	39.1
+4) Strongly agree	542	37.3
+Missing	118
+
+
+77) Q24F
+Please indicate your level of agreement with the following statements. I do not believe there is any ultimate meaning in life.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1440	1.728	0.836
+1) Strongly disagree	688	47.8
+2) Disagree	518	36.0
+3) Agree	171	11.9
+4) Strongly agree	63	4.4
+Missing	132
+
+
+78) Q24G
+Please indicate your level of agreement with the following statements. I seek out opportunities to attain eternal wisdom for life.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1455	2.869	0.86
+1) Strongly disagree	111	7.6
+2) Disagree	313	21.5
+3) Agree	687	47.2
+4) Strongly agree	344	23.6
+Missing	117
+
+
+79) Q26
+If you were unsure of what was right or wrong in a particular situation, how would you decide what to do? Would you: (Please mark only one box.)
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1527	3.174	1.044
+1) Do what would make you feel happy	222	14.5
+2) Do what would help you to get ahead	56	3.7
+3) Follow the advice of an authority, such as a parent, relative, or person you respect	483	31.6
+4) Do what you think God or scripture tells you is right	766	50.2
+Missing	45
+
+
+80) Q27A
+How do you feel about the morality of the following? Abortion, if the pregnancy is the result of rape
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1498	2.895	1.283
+1) Always wrong	386	25.8
+2) Almost always wrong	161	10.7
+3) Only wrong sometimes	176	11.7
+4) Not wrong at all	775	51.7
+Missing	74
+
+
+81) Q27B
+How do you feel about the morality of the following? Abortion, if the family cannot afford the child
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1500	2.158	1.256
+1) Always wrong	717	47.8
+2) Almost always wrong	195	13.0
+3) Only wrong sometimes	222	14.8
+4) Not wrong at all	366	24.4
+Missing	72
+
+
+82) Q27C
+How do you feel about the morality of the following? Birth control
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1517	3.661	0.796
+1) Always wrong	87	5.7
+2) Almost always wrong	49	3.2
+3) Only wrong sometimes	156	10.3
+4) Not wrong at all	1225	80.8
+Missing	55
+
+
+83) Q27D
+How do you feel about the morality of the following? Divorce, if children are present
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1504	3.084	0.98
+1) Always wrong	154	10.2
+2) Almost always wrong	202	13.4
+3) Only wrong sometimes	512	34.0
+4) Not wrong at all	636	42.3
+Missing	68
+
+
+84) Q27E
+How do you feel about the morality of the following? Premarital sex
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1514	2.672	1.295
+1) Always wrong	485	32.0
+2) Almost always wrong	144	9.5
+3) Only wrong sometimes	268	17.7
+4) Not wrong at all	617	40.8
+Missing	58
+
+
+85) Q28A
+Thinking about men, women, and raising families: It is much better for everyone if the man earns the main living and the woman takes care of the home and family.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1521	2.216	1.008
+1) Strongly disagree	433	28.5
+2) Disagree	537	35.3
+3) Agree	340	22.4
+4) Strongly agree	211	13.9
+Missing	51
+
+
+86) Q28B
+Thinking about men, women, and raising families: If a man and woman both work full-time, they should share housework tasks equally.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1535	3.566	0.6
+1) Strongly disagree	15	1.0
+2) Disagree	43	2.8
+3) Agree	535	34.9
+4) Strongly agree	942	61.4
+Missing	37
+
+
+87) Q28C
+Thinking about men, women, and raising families: Preschool children suffer if their mother is employed at a full-time job.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1517	2.283	0.955
+1) Strongly disagree	342	22.5
+2) Disagree	598	39.4
+3) Agree	382	25.2
+4) Strongly agree	195	12.9
+Missing	55
+
+
+88) Q29
+For whom did you vote in the 2012 presidential election?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1516	2.022	0.998
+1) Mitt Romney	504	33.2
+2) Barack Obama	710	46.8
+3) Someone else	67	4.4
+4) Did not vote	235	15.5
+Missing	56
+
+
+89) Q30A
+In the year leading up to the 2012 presidential election, did you... Read newspaper or magazine stories about the election?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1534	1.213	0.41
+1) Yes	1207	78.7
+2) No	327	21.3
+Missing	38
+
+
+90) Q30B
+In the year leading up to the 2012 presidential election, did you... Visit Internet sites related to the election?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1521	1.443	0.497
+1) Yes	847	55.7
+2) No	674	44.3
+Missing	51
+
+
+91) Q30C
+In the year leading up to the 2012 presidential election, did you... Give money to a political campaign/party/candidate?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1521	1.826	0.379
+1) Yes	265	17.4
+2) No	1256	82.6
+Missing	51
+
+
+92) Q30D
+In the year leading up to the 2012 presidential election, did you... Write, call, or visit a public official?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1519	1.841	0.366
+1) Yes	242	15.9
+2) No	1277	84.1
+Missing	53
+
+
+93) Q30E
+In the year leading up to the 2012 presidential election, did you... Attend a political rally or meeting?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1519	1.882	0.323
+1) Yes	180	11.8
+2) No	1339	88.2
+Missing	53
+
+
+94) Q30F
+In the year leading up to the 2012 presidential election, did you... Attend a class or lecture about social/political issues?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1520	1.906	0.292
+1) Yes	143	9.4
+2) No	1377	90.6
+Missing	52
+
+
+95) Q30G
+In the year leading up to the 2012 presidential election, did you... Participate in a public protest or demonstration?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1519	1.959	0.199
+1) Yes	63	4.1
+2) No	1456	95.9
+Missing	53
+
+
+96) Q30H
+In the year leading up to the 2012 presidential election, did you... Work for a political campaign/voter registration drive?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1518	1.945	0.227
+1) Yes	83	5.5
+2) No	1435	94.5
+Missing	54
+
+
+97) Q30I
+In the year leading up to the 2012 presidential election, did you... Watch or listen to a political debate?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1548	1.151	0.358
+1) Yes	1314	84.9
+2) No	234	15.1
+Missing	24
+
+
+98) Q31
+How would you describe yourself politically?
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	1521	3.801	1.554
+1) Extremely conservative	78	5.1
+2) Conservative	329	21.6
+3) Leaning conservative	170	11.2
+4) Moderate	521	34.3
+5) Leaning liberal	144	9.5
+6) Liberal	222	14.6
+7) Extremely liberal	57	3.7
+Missing	51
+
+
+99) Q32
+Do you think of yourself as Republican, Democrat, or Independent?
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	1521	4.284	1.842
+1) Strong Republican	117	7.7
+2) Moderate Republican	212	13.9
+3) Leaning Republican	139	9.1
+4) Independent	429	28.2
+5) Leaning Democrat	126	8.3
+6) Moderate Democrat	274	18.0
+7) Strong Democrat	224	14.7
+Missing	51
+
+
+100) Q33
+How much have you heard or read about the Tea Party movement?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1542	2.855	0.965
+1) Nothing at all	177	11.5
+2) Only a little	315	20.4
+3) Some	605	39.2
+4) A lot	445	28.9
+Missing	30
+
+
+101) Q34
+Is your opinion of the Tea Party movement:
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1527	2.538	1.023
+1) Haven't heard enough	322	21.1
+2) Undecided	347	22.7
+3) Not favorable	572	37.5
+4) Favorable	286	18.7
+Missing	45
+
+
+102) Q35
+Do you consider yourself to be a supporter of the Tea Party movement?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1535	3.778	2.906
+1) Yes	205	13.4
+2) No	841	54.8
+8) Don't know	489	31.9
+Missing	37
+
+
+103) Q36A
+How much would you say that you trust the following people or groups? People in general
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1532	2.816	0.688
+1) Not at all	73	4.8
+2) Only a little	310	20.2
+3) Some	975	63.6
+4) A lot	174	11.4
+Missing	40
+
+
+104) Q36B
+How much would you say that you trust the following people or groups? Your neighbors
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1524	3.056	0.779
+1) Not at all	70	4.6
+2) Only a little	212	13.9
+3) Some	804	52.8
+4) A lot	438	28.7
+Missing	48
+
+
+105) Q36C
+How much would you say that you trust the following people or groups? Your coworkers
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1447	3.045	0.808
+1) Not at all	78	5.4
+2) Only a little	207	14.3
+3) Some	734	50.7
+4) A lot	428	29.6
+Missing	125
+
+
+106) Q36D
+How much would you say that you trust the following people or groups? Strangers
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1523	2.043	0.796
+1) Not at all	430	28.2
+2) Only a little	619	40.6
+3) Some	453	29.7
+4) A lot	21	1.4
+Missing	49
+
+
+107) Q36E
+How much would you say that you trust the following people or groups? Banks
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1526	2.582	0.883
+1) Not at all	212	13.9
+2) Only a little	411	26.9
+3) Some	706	46.3
+4) A lot	197	12.9
+Missing	46
+
+
+108) Q36F
+How much would you say that you trust the following people or groups? The police
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1529	2.978	0.831
+1) Not at all	108	7.1
+2) Only a little	221	14.5
+3) Some	796	52.1
+4) A lot	404	26.4
+Missing	43
+
+
+109) Q36G
+How much would you say that you trust the following people or groups? Oil companies
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1516	1.9	0.853
+1) Not at all	601	39.6
+2) Only a little	500	33.0
+3) Some	381	25.1
+4) A lot	34	2.2
+Missing	56
+
+
+110) Q37A
+Please indicate your level of agreement with the following statements. Poor people have become too dependent on the government.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1520	2.814	0.948
+1) Strongly disagree	142	9.3
+2) Disagree	425	28.0
+3) Agree	527	34.7
+4) Strongly agree	426	28.0
+Missing	52
+
+
+111) Q37B
+Please indicate your level of agreement with the following statements.The economic system is working against me.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1492	2.609	0.82
+1) Strongly disagree	103	6.9
+2) Disagree	598	40.1
+3) Agree	571	38.3
+4) Strongly agree	220	14.7
+Missing	80
+
+
+112) Q37C
+Please indicate your level of agreement with the following statements. The rich get richer while the poor get poorer.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1521	3.128	0.818
+1) Strongly disagree	53	3.5
+2) Disagree	265	17.4
+3) Agree	638	41.9
+4) Strongly agree	565	37.1
+Missing	51
+
+
+113) Q37D
+Please indicate your level of agreement with the following statements. The political system is working against me.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1488	2.743	0.83
+1) Strongly disagree	67	4.5
+2) Disagree	552	37.1
+3) Agree	566	38.0
+4) Strongly agree	303	20.4
+Missing	84
+
+
+114) Q37E
+Please indicate your level of agreement with the following statements. We should restrict and control people coming into our country more than we do now.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1514	2.918	0.967
+1) Strongly disagree	131	8.7
+2) Disagree	382	25.2
+3) Agree	481	31.8
+4) Strongly agree	520	34.3
+Missing	58
+
+
+115) Q38
+Some people think that the government in Washington is trying to do too many things that should be left to individuals and private businesses. Others disagree and think that the government should do even more to solve our country's problems. Still, others have opinions somewhere in between. Which one of the following statements about the proper role of government best applies to you?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1486	1.57	0.495
+1) Government should do more	639	43.0
+2) Government does too much	847	57.0
+Missing	86
+
+
+116) Q39A
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Improving and protecting the environment.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1512	2.303	1.973
+1) Too little	667	44.1
+2) Just about right	425	28.1
+3) Too much	279	18.5
+8) Don't know	141	9.3
+Missing	60
+
+
+117) Q39B
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Improving and protecting the nation's health/wellness.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1514	2.079	1.663
+1) Too little	746	49.3
+2) Just about right	332	21.9
+3) Too much	350	23.1
+8) Don't know	86	5.7
+Missing	58
+
+
+118) Q39C
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Reducing crime.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1507	2.09	1.931
+1) Too little	767	50.9
+2) Just about right	498	33.0
+3) Too much	110	7.3
+8) Don't know	132	8.8
+Missing	65
+
+
+119) Q39D
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Improving the nation's education system.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1513	1.655	1.452
+1) Too little	1046	69.1
+2) Just about right	243	16.1
+3) Too much	164	10.8
+8) Don't know	60	4.0
+Missing	59
+
+
+120) Q39E
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: The military and defense.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1513	2.389	1.653
+1) Too little	447	29.5
+2) Just about right	510	33.7
+3) Too much	460	30.4
+8) Don't know	96	6.3
+Missing	59
+
+
+121) Q39F
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Welfare.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1517	2.764	1.712
+1) Too little	301	19.8
+2) Just about right	351	23.1
+3) Too much	746	49.2
+8) Don't know	119	7.8
+Missing	55
+
+
+122) Q39G
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Supporting scientific research.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1511	2.624	2.305
+1) Too little	579	38.3
+2) Just about right	495	32.8
+3) Too much	220	14.6
+8) Don't know	217	14.4
+Missing	61
+
+
+123) Q39H
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Patrolling and controlling our borders.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1516	2.218	2.066
+1) Too little	780	51.5
+2) Just about right	401	26.5
+3) Too much	180	11.9
+8) Don't know	155	10.2
+Missing	56
+
+
+124) Q39I
+Thinking about government spending, do you think that the federal government spends too little, about the right amount, or too much on the following: Enforcing affirmative action in the workplace.
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1512	3.469	2.561
+1) Too little	286	18.9
+2) Just about right	449	29.7
+3) Too much	431	28.5
+8) Don't know	346	22.9
+Missing	60
+
+
+125) Q40
+When it comes to the availability of good jobs in America, some say that America's best years are behind us, while others say our best years are yet to come. What do you think?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1517	1.423	0.494
+1) Best years behind	875	57.7
+2) Best yet to come	642	42.3
+Missing	55
+
+
+126) Q41
+Do you think that you can trust the federal government in Washington, DC, to do what is right?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1541	1.986	0.642
+1) Never	310	20.1
+2) Only some of the time	960	62.3
+3) Most of the time	253	16.4
+4) Just about always	18	1.2
+Missing	31
+
+
+127) Q42
+Do you think that it is ever justified for citizens to take violent action against the government, or is it never justified?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1508	1.263	0.44
+1) Never justified	1112	73.7
+2) Justified	396	26.3
+Missing	64
+
+
+128) Q43
+If you were asked to use one of these five names for your social class, which would you say you belong in?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1538	2.709	0.861
+1) Lower class	131	8.5
+2) Lower middle class	447	29.1
+3) Middle class	718	46.7
+4) Upper middle class	223	14.5
+5) Upper class	19	1.2
+Missing	34
+
+
+129) Q44
+Do you ever feel at risk that you may drop to a lower social class?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1540	1.469	0.499
+1) Yes	817	53.1
+2) No	723	46.9
+Missing	32
+
+
+130) Q45
+In general, how happy are you with your life as a whole these days?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1544	3.179	0.767
+1) Very unhappy	53	3.4
+2) Somewhat unhappy	182	11.8
+3) Somewhat happy	745	48.3
+4) Very happy	564	36.5
+Missing	28
+
+
+131) Q46A
+Have you done, or attempted to do, any of the following over the past 12 months? Present yourself as more educated than you were
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1541	1.903	0.297
+1) Yes	150	9.7
+2) No	1391	90.3
+Missing	31
+
+
+132) Q46B
+Have you done, or attempted to do, any of the following over the past 12 months? Claim government benefits to which you were not entitled
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1532	1.988	0.111
+1) Yes	19	1.2
+2) No	1513	98.8
+Missing	40
+
+
+133) Q46C
+Have you done, or attempted to do, any of the following over the past 12 months? Inflate claims to get more money from insurance company or government
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1532	1.992	0.088
+1) Yes	12	0.8
+2) No	1520	99.2
+Missing	40
+
+
+134) Q46D
+Have you done, or attempted to do, any of the following over the past 12 months? Not report all of your income in order to pay less income taxes
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1531	1.979	0.143
+1) Yes	32	2.1
+2) No	1499	97.9
+Missing	41
+
+
+135) Q47
+Think back over the LAST TWO WEEKS, how many times have you had five or more drinks in one sitting? (A 'drink' is a bottle of beer, a glass of wine, a wine cooler, a shot glass of liquor, a mixed drink, etc.)
+RANGE: 0 to 5
+	N	Mean	Std. Deviation
+Total	1557	0.421	1.009
+0) None	1259	80.9
+1) Once	107	6.9
+2) Twice	83	5.3
+3) Three to five times	67	4.3
+4) Six to nine times	23	1.5
+5) Ten times or more	18	1.2
+Missing	15
+
+
+136) Q48
+On how many occasions (if any) have you used marijuana (weed, pot) or hashish (hash, hash oil) during the last 30 days?
+RANGE: 0 to 6
+	N	Mean	Std. Deviation
+Total	1557	0.304	1.141
+0) None	1423	91.4
+1) 1-2	33	2.1
+2) 3-5	19	1.2
+3) 6-9	12	0.8
+4) 10-19	13	0.8
+5) 20-39	28	1.8
+6) 40 or more	29	1.9
+Missing	15
+
+
+137) Q50
+If ever married, please indicate how old you were when you first got married? (Write a number)
+RANGE: 1 to 58
+	N	Mean	Std. Deviation
+Total	1188	23.988	5.752
+1) 	3	0.3
+3) 	1	0.1
+10) 	1	0.1
+12) 	1	0.1
+14) 	1	0.1
+15) 	3	0.3
+16) 	17	1.4
+17) 	22	1.9
+18) 	82	6.9
+19) 	91	7.7
+20) 	104	8.8
+21) 	115	9.7
+22) 	117	9.8
+23) 	105	8.8
+24) 	80	6.7
+25) 	72	6.1
+26) 	73	6.1
+27) 	53	4.5
+28) 	44	3.7
+29) 	37	3.1
+30) 	45	3.8
+31) 	15	1.3
+32) 	23	1.9
+33) 	13	1.1
+34) 	13	1.1
+35) 	12	1.0
+36) 	9	0.8
+37) 	3	0.3
+38) 	5	0.4
+39) 	4	0.3
+40) 	5	0.4
+41) 	4	0.3
+42) 	1	0.1
+43) 	1	0.1
+45) 	2	0.2
+46) 	2	0.2
+48) 	1	0.1
+49) 	1	0.1
+50) 	2	0.2
+51) 	1	0.1
+52) 	1	0.1
+54) 	1	0.1
+56) 	1	0.1
+58) 	1	0.1
+Missing	384
+
+
+138) Q50_DNA
+If ever married, please indicate how old you were when you first got married? (Write a number) Does not apply
+RANGE: 1 to 1
+	N	Mean	Std. Deviation
+Total	365	1	0
+1) 	365	100.0
+Missing	1207
+
+
+139) Q51
+If ever divorced, please indicate how old you were when you divorced for the first time? (Write a number)
+RANGE: 0 to 75
+	N	Mean	Std. Deviation
+Total	444	33.347	9.99
+0) 	1	0.2
+1) 	1	0.2
+10) 	1	0.2
+17) 	1	0.2
+18) 	3	0.7
+19) 	5	1.1
+20) 	11	2.5
+21) 	16	3.6
+22) 	13	2.9
+23) 	14	3.2
+24) 	19	4.3
+25) 	22	5.0
+26) 	18	4.1
+27) 	16	3.6
+28) 	36	8.1
+29) 	12	2.7
+30) 	18	4.1
+31) 	8	1.8
+32) 	20	4.5
+33) 	7	1.6
+34) 	15	3.4
+35) 	15	3.4
+36) 	14	3.2
+37) 	11	2.5
+38) 	15	3.4
+39) 	12	2.7
+40) 	16	3.6
+41) 	10	2.3
+42) 	10	2.3
+43) 	10	2.3
+44) 	9	2.0
+45) 	13	2.9
+46) 	7	1.6
+47) 	7	1.6
+48) 	3	0.7
+49) 	6	1.4
+50) 	7	1.6
+51) 	3	0.7
+52) 	4	0.9
+53) 	1	0.2
+54) 	2	0.5
+55) 	2	0.5
+56) 	2	0.5
+57) 	2	0.5
+58) 	1	0.2
+60) 	1	0.2
+62) 	1	0.2
+63) 	1	0.2
+64) 	1	0.2
+75) 	1	0.2
+Missing	1128
+
+
+140) Q51_DNA
+If you ever divorced, please indicate how old you were when you divorced for the first time? (Write a number) Does not apply
+RANGE: 1 to 1
+	N	Mean	Std. Deviation
+Total	1056	1	0
+1) 	1056	100.0
+Missing	516
+
+
+141) Q51A
+What is your current marital status?
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	1554	2.647	1.591
+1) Single/never married [Skip to Q55]	309	19.9
+2) Married	798	51.4
+3) Living as married/partnered	61	3.9
+4) Separated [Skip to Q55]	37	2.4
+5) Divorced [Skip to Q55]	217	14.0
+6) Widowed [Skip to Q55]	132	8.5
+Missing	18
+
+
+142) Q52
+Is your spouse/partner employed?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	909	1.366	0.482
+1) Yes	576	63.4
+2) No	333	36.6
+Missing	663
+
+
+143) Q53
+All in all, I am satisfied with my relationship with my spouse/partner.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	916	3.549	0.68
+1) Strongly disagree	17	1.9
+2) Disagree	47	5.1
+3) Agree	268	29.3
+4) Strongly agree	584	63.8
+Missing	656
+
+
+144) Q54
+How religious does your spouse/partner (if applicable) consider themselves to be?
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	933	2.943	1.18
+1) Not at all religious	152	16.3
+2) Not too religious	128	13.7
+3) Somewhat religious	347	37.2
+4) Very religious	253	27.1
+5) I don't know	33	3.5
+6) No spouse/partner	20	2.1
+Missing	639
+
+
+145) Q55
+Do you have children?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1546	1.28	0.449
+1) Yes	1113	72.0
+2) No [Skip to Q57A]	433	28.0
+Missing	26
+
+
+146) Q56A
+Please indicate your level of agreement with the following statements. My role as a parent is holy and sacred.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1046	3.033	0.937
+1) Strongly disagree	86	8.2
+2) Disagree	184	17.6
+3) Agree	385	36.8
+4) Strongly agree	391	37.4
+Missing	526
+
+
+147) Q56B
+Please indicate your level of agreement with the following statements. I sense God's presence in my relationship with my children.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1060	3.014	0.934
+1) Strongly disagree	101	9.5
+2) Disagree	152	14.3
+3) Agree	438	41.3
+4) Strongly agree	369	34.8
+Missing	512
+
+
+148) Q56C
+Please indicate your level of agreement with the following statements. All in all, I am satisfied in my role as a parent.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1096	3.401	0.629
+1) Strongly disagree	9	0.8
+2) Disagree	58	5.3
+3) Agree	513	46.8
+4) Strongly agree	516	47.1
+Missing	476
+
+
+149) Q57A
+Please indicate your level of agreement with the following statements. It's better for a person to get married than to go through life being single.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1525	2.431	0.898
+1) Strongly disagree	229	15.0
+2) Disagree	609	39.9
+3) Agree	488	32.0
+4) Strongly agree	199	13.0
+Missing	47
+
+
+150) Q57B
+Please indicate your level of agreement with the following statements. Divorce is usually the best solution when a couple can't seem to work out their marital problems.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1522	2.571	0.803
+1) Strongly disagree	153	10.1
+2) Disagree	498	32.7
+3) Agree	720	47.3
+4) Strongly agree	151	9.9
+Missing	50
+
+
+151) Q57C
+Please indicate your level of agreement with the following statements. Children ought to let aging parents live with them when the parents can no longer live by themselves.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1516	2.772	0.725
+1) Strongly disagree	48	3.2
+2) Disagree	467	30.8
+3) Agree	784	51.7
+4) Strongly agree	217	14.3
+Missing	56
+
+
+152) Q57D
+Please indicate your level of agreement with the following statements. It's better for a person to have a child than to go through life childless.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1518	2.391	0.877
+1) Strongly disagree	239	15.7
+2) Disagree	609	40.1
+3) Agree	507	33.4
+4) Strongly agree	163	10.7
+Missing	54
+
+
+153) Q58A
+If applicable, how often do/did each of the following attend religious services at a place of worship? Your spouse/partner
+RANGE: 0 to 9
+	N	Mean	Std. Deviation
+Total	1491	3.547	3.256
+0) Does not apply	375	25.2
+1) Never	247	16.6
+2) Less than once a year	104	7.0
+3) 1-2 times a year	113	7.6
+4) Several times a year	118	7.9
+5) Once a month	34	2.3
+6) 2-3 times a month	86	5.8
+7) About weekly	64	4.3
+8) Weekly	262	17.6
+9) Several times a week	88	5.9
+Missing	81
+
+
+154) Q58B
+If applicable, how often do/did each of the following attend religious services at a place of worship? You and your spouse/partner together
+RANGE: 0 to 9
+	N	Mean	Std. Deviation
+Total	1486	3.338	3.156
+0) Does not apply	358	24.1
+1) Never	295	19.9
+2) Less than once a year	117	7.9
+3) 1-2 times a year	126	8.5
+4) Several times a year	102	6.9
+5) Once a month	28	1.9
+6) 2-3 times a month	85	5.7
+7) About weekly	68	4.6
+8) Weekly	243	16.4
+9) Several times a week	64	4.3
+Missing	86
+
+
+155) Q58C
+If applicable, how often do/did each of the following attend religious services at a place of worship? You, when you were around 11 or 12 years old
+RANGE: 0 to 9
+	N	Mean	Std. Deviation
+Total	1519	6.401	2.61
+0) Does not apply	53	3.5
+1) Never	108	7.1
+2) Less than once a year	31	2.0
+3) 1-2 times a year	62	4.1
+4) Several times a year	97	6.4
+5) Once a month	47	3.1
+6) 2-3 times a month	120	7.9
+7) About weekly	201	13.2
+8) Weekly	583	38.4
+9) Several times a week	217	14.3
+Missing	53
+
+
+156) Q58D
+If applicable, how often do/did each of the following attend religious services at a place of worship? Your mother, when you were a child
+RANGE: 0 to 9
+	N	Mean	Std. Deviation
+Total	1522	5.863	2.88
+0) Does not apply	61	4.0
+1) Never	170	11.2
+2) Less than once a year	66	4.3
+3) 1-2 times a year	74	4.9
+4) Several times a year	121	8.0
+5) Once a month	45	3.0
+6) 2-3 times a month	104	6.8
+7) About weekly	164	10.8
+8) Weekly	534	35.1
+9) Several times a week	183	12.0
+Missing	50
+
+
+157) Q58E
+If applicable, how often do/did each of the following attend religious services at a place of worship? Your father, when you were a child
+RANGE: 0 to 9
+	N	Mean	Std. Deviation
+Total	1516	4.635	3.184
+0) Does not apply	137	9.0
+1) Never	304	20.1
+2) Less than once a year	90	5.9
+3) 1-2 times a year	111	7.3
+4) Several times a year	112	7.4
+5) Once a month	50	3.3
+6) 2-3 times a month	90	5.9
+7) About weekly	122	8.0
+8) Weekly	382	25.2
+9) Several times a week	118	7.8
+Missing	56
+
+
+158) Q59A
+Mark only one box in response to these questions. In what religious family were you raised?
+RANGE: 6 to 9998
+	N	Mean	Std. Deviation
+Total	1522	141.436	1078.707
+6) Adventist	1	0.1
+7) African Methodist	9	0.6
+8) Anabaptist	2	0.1
+9) Asian Folk Religion	1	0.1
+10) Assemblies of God	7	0.5
+11) Baha'i	5	0.3
+12) Baptist	267	17.5
+13) Bible Church	15	1.0
+14) Brethren	4	0.3
+15) Buddhist	6	0.4
+16) Catholic/Roman Catholic	474	31.1
+17) Christian & Missionary Alliance	11	0.7
+18) Christian Reformed	8	0.5
+19) Christian Science	3	0.2
+20) Church of Christ	41	2.7
+21) Church of God	12	0.8
+22) Church of the Nazarene	7	0.5
+23) Congregational	7	0.5
+24) Disciples of Christ	6	0.4
+25) Episcopal/Anglican	24	1.6
+26) Hindu	5	0.3
+27) Holiness	7	0.5
+28) Jehovah's Witness	7	0.5
+29) Jewish	37	2.4
+30) Latter-day Saints	28	1.8
+31) Lutheran	102	6.7
+32) Mennonite	4	0.3
+33) Methodist	124	8.1
+34) Muslim	9	0.6
+35) Orthodox (Eastern, Russian, Greek)	6	0.4
+36) Pentecostal	34	2.2
+37) Presbyterian	67	4.4
+38) Quaker/Friends	4	0.3
+39) Reformed Church of America/Dutch Reformed	2	0.1
+40) Salvation Army	1	0.1
+41) Seventh-day Adventist	3	0.2
+43) Unitarian Universalist	2	0.1
+44) United Church of Christ	5	0.3
+45) Non-denominational Christian	55	3.6
+46) No religion	92	6.0
+9998) Don't know	18	1.2
+Missing	50
+
+
+159) Q59B
+Mark only one box in response to these questions. With what religious family does your spouse/partner (if applicable) most closely identify?
+RANGE: 6 to 9998
+	N	Mean	Std. Deviation
+Total	1108	600.889	2327.746
+6) Adventist	2	0.2
+7) African Methodist	3	0.3
+8) Anabaptist	1	0.1
+9) Asian Folk Religion	1	0.1
+10) Assemblies of God	6	0.5
+11) Baha'i	5	0.5
+12) Baptist	157	14.2
+13) Bible Church	10	0.9
+14) Brethren	2	0.2
+15) Buddhist	12	1.1
+16) Catholic/Roman Catholic	308	27.8
+17) Christian & Missionary Alliance	11	1.0
+18) Christian Reformed	8	0.7
+19) Christian Science	3	0.3
+20) Church of Christ	25	2.3
+21) Church of God	8	0.7
+22) Church of the Nazarene	5	0.5
+23) Congregational	6	0.5
+24) Disciples of Christ	3	0.3
+25) Episcopal/Anglican	28	2.5
+26) Hindu	3	0.3
+27) Holiness	4	0.4
+28) Jehovah's Witness	5	0.5
+29) Jewish	24	2.2
+30) Latter-day Saints	21	1.9
+31) Lutheran	62	5.6
+32) Mennonite	5	0.5
+33) Methodist	73	6.6
+34) Muslim	6	0.5
+35) Orthodox (Eastern, Russian, Greek)	8	0.7
+36) Pentecostal	22	2.0
+37) Presbyterian	34	3.1
+38) Quaker/Friends	2	0.2
+39) Reformed Church of America/Dutch Reformed	1	0.1
+40) Salvation Army	0	0.0
+41) Seventh-day Adventist	2	0.2
+43) Unitarian Universalist	2	0.2
+44) United Church of Christ	6	0.5
+45) Non-denominational Christian	62	5.6
+46) No religion	98	8.8
+9998) Don't know	64	5.8
+Missing	464
+
+
+160) Q61A
+Please describe how you feel about gays and lesbians: Gays and lesbians should be allowed civil unions.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1503	2.83	1.085
+1) Strongly disagree	270	18.0
+2) Disagree	224	14.9
+3) Agree	501	33.3
+4) Strongly agree	508	33.8
+Missing	69
+
+
+161) Q61B
+Please describe how you feel about gays and lesbians: Gays and lesbians should be allowed to legally marry.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1500	2.546	1.19
+1) Strongly disagree	417	27.8
+2) Disagree	305	20.3
+3) Agree	320	21.3
+4) Strongly agree	458	30.5
+Missing	72
+
+
+162) Q61C
+Please describe how you feel about gays and lesbians: People are born either as gay/lesbian or heterosexual.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1486	2.651	1.07
+1) Strongly disagree	295	19.9
+2) Disagree	314	21.1
+3) Agree	491	33.0
+4) Strongly agree	386	26.0
+Missing	86
+
+
+163) Q61D
+Please describe how you feel about gays and lesbians: People choose to be gay/lesbian.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1484	2.398	1.062
+1) Strongly disagree	392	26.4
+2) Disagree	377	25.4
+3) Agree	448	30.2
+4) Strongly agree	267	18.0
+Missing	88
+
+
+164) Q62
+Do you have any close friends or family members who are gay or lesbian?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1501	1.328	0.47
+1) Yes	1008	67.2
+2) No	493	32.8
+Missing	71
+
+
+165) Q63
+Are you currently employed?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1531	1.408	0.492
+1) Yes	907	59.2
+2) No [Skip to Q70A]	624	40.8
+Missing	41
+
+
+166) Q64A
+In your place of employment, how often have you done any of the following? Taken property from work without permission
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	952	1.658	1.578
+1) Never	674	70.8
+2) Seldom	179	18.8
+3) Sometimes	42	4.4
+4) Often	9	0.9
+8) Does not apply	48	5.0
+Missing	620
+
+
+167) Q64B
+In your place of employment, how often have you done any of the following? Falsified a receipt to get reimbursed for more money than I spent on a business trip
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	948	1.566	1.849
+1) Never	847	89.3
+2) Seldom	22	2.3
+3) Sometimes	6	0.6
+4) Often	2	0.2
+8) Does not apply	71	7.5
+Missing	624
+
+
+168) Q64C
+In your place of employment, how often have you done any of the following? Taken an additional or longer break than is acceptable at my workplace
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	949	2.157	1.842
+1) Never	454	47.8
+2) Seldom	273	28.8
+3) Sometimes	125	13.2
+4) Often	26	2.7
+8) Does not apply	71	7.5
+Missing	623
+
+
+169) Q64D
+In your place of employment, how often have you done any of the following? Used an illegal drug or consumed alcohol on the job
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	950	1.284	1.272
+1) Never	884	93.1
+2) Seldom	19	2.0
+3) Sometimes	14	1.5
+4) Often	2	0.2
+8) Does not apply	31	3.3
+Missing	622
+
+
+170) Q65A
+The following are statements an individual may have about the organization for which they work. Regarding your current employer: I really feel as if this organization's problems are my own.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	920	2.465	0.898
+1) Strongly disagree	135	14.7
+2) Disagree	343	37.3
+3) Agree	321	34.9
+4) Strongly agree	121	13.2
+Missing	652
+
+
+171) Q65B
+The following are statements an individual may have about the organization for which they work. Regarding your current employer: This organization has a great deal of personal meaning to me.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	922	2.885	0.827
+1) Strongly disagree	59	6.4
+2) Disagree	197	21.4
+3) Agree	457	49.6
+4) Strongly agree	209	22.7
+Missing	650
+
+
+172) Q66A
+To what extent do you agree with the following statements? God promises that those who live out their faith will receive financial success.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	929	1.966	0.839
+1) Strongly disagree	293	31.5
+2) Disagree	425	45.7
+3) Agree	161	17.3
+4) Strongly agree	50	5.4
+Missing	643
+
+
+173) Q66B
+To what extent do you agree with the following statements? Believers who succeed in business are evidence of God's promised blessing.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	925	1.996	0.863
+1) Strongly disagree	295	31.9
+2) Disagree	390	42.2
+3) Agree	189	20.4
+4) Strongly agree	51	5.5
+Missing	647
+
+
+174) Q66C
+To what extent do you agree with the following statements? Faithful believers in God receive real financial benefits in this life.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	929	1.989	0.855
+1) Strongly disagree	293	31.5
+2) Disagree	404	43.5
+3) Agree	181	19.5
+4) Strongly agree	51	5.5
+Missing	643
+
+
+175) Q66D
+To what extent do you agree with the following statements? All in all, I am satisfied with my job.
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	923	3.085	0.746
+1) Strongly disagree	36	3.9
+2) Disagree	113	12.2
+3) Agree	511	55.4
+4) Strongly agree	263	28.5
+Missing	649
+
+
+176) Q67A
+Please indicate how often the following statements apply to you. I view my work as a partnership with God.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	945	2.495	1.501
+1) Never	378	40.0
+2) Seldom	135	14.3
+3) Sometimes	172	18.2
+4) Often	106	11.2
+5) Always	154	16.3
+Missing	627
+
+
+177) Q67B
+Please indicate how often the following statements apply to you. I see connections between my worship and my work.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	941	2.422	1.466
+1) Never	391	41.6
+2) Seldom	139	14.8
+3) Sometimes	161	17.1
+4) Often	123	13.1
+5) Always	127	13.5
+Missing	631
+
+
+178) Q67C
+Please indicate how often the following statements apply to you. I view my work as a mission from God.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	944	2.393	1.491
+1) Never	412	43.6
+2) Seldom	132	14.0
+3) Sometimes	158	16.7
+4) Often	101	10.7
+5) Always	141	14.9
+Missing	628
+
+
+179) Q67D
+Please indicate how often the following statements apply to you. I pursue excellence in my work because of my faith.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	945	2.733	1.577
+1) Never	345	36.5
+2) Seldom	108	11.4
+3) Sometimes	136	14.4
+4) Often	166	17.6
+5) Always	190	20.1
+Missing	627
+
+
+180) Q67E
+Please indicate how often the following statements apply to you. I view my work as part of God's plan to care for the needs of people.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	949	2.714	1.572
+1) Never	354	37.3
+2) Seldom	92	9.7
+3) Sometimes	166	17.5
+4) Often	145	15.3
+5) Always	192	20.2
+Missing	623
+
+
+181) Q68A
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My work keeps me from spending enough time with my family.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	947	2.827	1.146
+1) Strongly disagree	99	10.5
+2) Disagree	341	36.0
+3) Neutral	211	22.3
+4) Agree	217	22.9
+5) Strongly agree	79	8.3
+Missing	625
+
+
+182) Q68B
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My family keeps me from spending enough time on my work.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	943	1.925	0.772
+1) Strongly disagree	274	29.1
+2) Disagree	506	53.7
+3) Neutral	128	13.6
+4) Agree	30	3.2
+5) Strongly agree	5	0.5
+Missing	629
+
+
+183) Q68C
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My family makes me feel very tired and exhausted.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	940	2.134	0.935
+1) Strongly disagree	241	25.6
+2) Disagree	437	46.5
+3) Neutral	167	17.8
+4) Agree	85	9.0
+5) Strongly agree	10	1.1
+Missing	632
+
+
+184) Q68D
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My family makes me feel anxious or depressed.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	941	2.061	0.971
+1) Strongly disagree	295	31.3
+2) Disagree	402	42.7
+3) Neutral	149	15.8
+4) Agree	82	8.7
+5) Strongly agree	13	1.4
+Missing	631
+
+
+185) Q68E
+Please indicate how strongly you agree or disagree with the following statements about balancing family and work: My family keeps me from spending enough time on myself.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	943	2.157	0.961
+1) Strongly disagree	237	25.1
+2) Disagree	442	46.9
+3) Neutral	158	16.8
+4) Agree	91	9.7
+5) Strongly agree	15	1.6
+Missing	629
+
+
+186) Q69A
+How many of the people you work with are... White, non-Hispanic.
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	946	3.414	1.379
+0) None	27	2.9
+1) A few	74	7.8
+2) Some	125	13.2
+3) About half	159	16.8
+4) Most	421	44.5
+5) All	125	13.2
+8) Don't know	15	1.6
+Missing	626
+
+
+187) Q69B
+How many of the people you work with are... Black or African-American.
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	917	1.474	1.411
+0) None	216	23.6
+1) A few	314	34.2
+2) Some	258	28.1
+3) About half	74	8.1
+4) Most	26	2.8
+5) All	12	1.3
+8) Don't know	17	1.9
+Missing	655
+
+
+188) Q69C
+How many of the people you work with are... Hispanic or Latino.
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	919	1.702	1.625
+0) None	202	22.0
+1) A few	281	30.6
+2) Some	257	28.0
+3) About half	68	7.4
+4) Most	65	7.1
+5) All	21	2.3
+8) Don't know	25	2.7
+Missing	653
+
+
+189) Q69D
+How many of the people you work with are... Asian.
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	902	1.136	1.688
+0) None	373	41.4
+1) A few	301	33.4
+2) Some	165	18.3
+3) About half	15	1.7
+4) Most	5	0.6
+5) All	5	0.6
+8) Don't know	38	4.2
+Missing	670
+
+
+190) Q70A
+How many people in your neighborhood are... White, non-Hispanic.
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1489	3.46	1.616
+0) None	38	2.6
+1) A few	145	9.7
+2) Some	230	15.4
+3) About half	196	13.2
+4) Most	654	43.9
+5) All	155	10.4
+8) Don't know	71	4.8
+Missing	83
+
+
+191) Q70B
+How many people in your neighborhood are... Black or African-American.
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1434	1.986	2.063
+0) None	279	19.5
+1) A few	472	32.9
+2) Some	346	24.1
+3) About half	107	7.5
+4) Most	105	7.3
+5) All	19	1.3
+8) Don't know	106	7.4
+Missing	138
+
+
+192) Q70C
+How many people in your neighborhood are... Hispanic or Latino.
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1433	2.346	2.295
+0) None	246	17.2
+1) A few	391	27.3
+2) Some	361	25.2
+3) About half	120	8.4
+4) Most	139	9.7
+5) All	25	1.7
+8) Don't know	151	10.5
+Missing	139
+
+
+193) Q70D
+How many people in your neighborhood are... Asian.
+RANGE: 0 to 8
+	N	Mean	Std. Deviation
+Total	1409	2.084	2.735
+0) None	420	29.8
+1) A few	480	34.1
+2) Some	239	17.0
+3) About half	27	1.9
+4) Most	8	0.6
+5) All	5	0.4
+8) Don't know	230	16.3
+Missing	163
+
+
+194) Q71A
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: The availability of guns.
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1513	2.415	0.741
+1) Not at all	231	15.3
+2) Not so much	423	28.0
+3) A great deal	859	56.8
+Missing	59
+
+
+195) Q71B
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: The absence of God from our public schools and places.
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1514	2.177	0.861
+1) Not at all	450	29.7
+2) Not so much	346	22.9
+3) A great deal	718	47.4
+Missing	58
+
+
+196) Q71C
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: Irresponsible gun owners.
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1514	2.763	0.501
+1) Not at all	53	3.5
+2) Not so much	253	16.7
+3) A great deal	1208	79.8
+Missing	58
+
+
+197) Q71D
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: Media violence such as in movies and video games.
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1516	2.583	0.618
+1) Not at all	105	6.9
+2) Not so much	422	27.8
+3) A great deal	989	65.2
+Missing	56
+
+
+198) Q71E
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: Inadequate treatment of mentally ill people.
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1510	2.609	0.6
+1) Not at all	92	6.1
+2) Not so much	407	27.0
+3) A great deal	1011	67.0
+Missing	62
+
+
+199) Q71F
+For each item, please tell us how much, if at all, each of the following contributes to gun violence in the country: Inadequate background checks on gun purchases.
+RANGE: 1 to 3
+	N	Mean	Std. Deviation
+Total	1515	2.606	0.617
+1) Not at all	107	7.1
+2) Not so much	383	25.3
+3) A great deal	1025	67.7
+Missing	57
+
+
+200) Q72
+Have you, or anyone you are close with, ever been threatened with a gun or shot at?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1530	1.627	0.484
+1) Yes	571	37.3
+2) No	959	62.7
+Missing	42
+
+
+201) Q73A
+Please tell us whether you oppose or favor the following: A ban on semi-automatic weapons.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1502	1.371	0.483
+1) Favor	945	62.9
+2) Oppose	557	37.1
+Missing	70
+
+
+202) Q73B
+Please tell us whether you oppose or favor the following: Expanded gun safety programs.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1515	1.073	0.26
+1) Favor	1405	92.7
+2) Oppose	110	7.3
+Missing	57
+
+
+203) Q73C
+Please tell us whether you oppose or favor the following: Putting armed security guards/police in more schools.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1510	1.378	0.485
+1) Favor	939	62.2
+2) Oppose	571	37.8
+Missing	62
+
+
+204) Q73D
+Please tell us whether you oppose or favor the following: Better mental health screening of gun buyers.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1512	1.092	0.289
+1) Favor	1373	90.8
+2) Oppose	139	9.2
+Missing	60
+
+
+205) Q73E
+Please tell us whether you oppose or favor the following: A ban on high-capacity ammunition clips that hold more than 10 bullets.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1502	1.329	0.47
+1) Favor	1008	67.1
+2) Oppose	494	32.9
+Missing	70
+
+
+206) Q73F
+Please tell us whether you oppose or favor the following: More teachers and school officials having guns.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1504	1.705	0.456
+1) Favor	443	29.5
+2) Oppose	1061	70.5
+Missing	68
+
+
+207) Q73G
+Please tell us whether you oppose or favor the following: Banning the possession of hand guns except by law enforcement.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1501	1.71	0.454
+1) Favor	436	29.0
+2) Oppose	1065	71.0
+Missing	71
+
+
+208) Q73H
+Please tell us whether you oppose or favor the following: Laws that allow citizens to carry concealed guns.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1502	1.442	0.497
+1) Favor	838	55.8
+2) Oppose	664	44.2
+Missing	70
+
+
+209) Q74_NO
+Do you happen to have in your home (or garage) any of the following: (Please mark all that apply.) No hand gun/revolver, long gun, automatic/semi-automatic weapon [Skip to Q75_1A]
+RANGE: 1 to 1
+	N	Mean	Std. Deviation
+Total	945	1	0
+1) No handgun/revolver, long gun, automatic/semi-automatic weapon	945	100.0
+Missing	627
+
+
+210) Q74A
+Do you happen to have in your home (or garage) any of the following: (Please mark all that apply.) Hand gun/revolver.
+RANGE: 2 to 4
+	N	Mean	Std. Deviation
+Total	467	3.585	0.651
+2) Yes, as a collector's item	42	9.0
+3) Yes, for recreation	110	23.6
+4) Yes, for protection	315	67.5
+Missing	1105
+
+
+211) Q74B
+Do you happen to have in your home (or garage) any of the following: (Please mark all that apply.) Long gun.
+RANGE: 2 to 4
+	N	Mean	Std. Deviation
+Total	433	3.134	0.631
+2) Yes, as a collector's item	61	14.1
+3) Yes, for recreation	253	58.4
+4) Yes, for protection	119	27.5
+Missing	1139
+
+
+212) Q74C
+Do you happen to have in your home (or garage) any of the following: (Please mark all that apply.) Automatic/Semi-Automatic weapon.
+RANGE: 2 to 4
+	N	Mean	Std. Deviation
+Total	233	3.318	0.684
+2) Yes, as a collector's item	29	12.4
+3) Yes, for recreation	101	43.3
+4) Yes, for protection	103	44.2
+Missing	1339
+
+
+213) Q75A
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Safe
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	577	3.868	1.09
+1) Strongly agree	24	4.2
+2) Agree	37	6.4
+3) Neutral	130	22.5
+4) Disagree	186	32.2
+5) Strongly disagree	200	34.7
+Missing	995
+
+
+214) Q75B
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Responsible
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	574	3.765	1.102
+1) Strongly agree	24	4.2
+2) Agree	50	8.7
+3) Neutral	137	23.9
+4) Disagree	189	32.9
+5) Strongly disagree	174	30.3
+Missing	998
+
+
+215) Q75C
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Confident
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	569	3.504	1.086
+1) Strongly agree	26	4.6
+2) Agree	60	10.5
+3) Neutral	210	36.9
+4) Disagree	147	25.8
+5) Strongly disagree	126	22.1
+Missing	1003
+
+
+216) Q75D
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Patriotic
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	564	3.176	1.181
+1) Strongly agree	55	9.8
+2) Agree	91	16.1
+3) Neutral	214	37.9
+4) Disagree	108	19.1
+5) Strongly disagree	96	17.0
+Missing	1008
+
+
+217) Q75E
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: In control of my fate
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	569	3.16	1.166
+1) Strongly agree	54	9.5
+2) Agree	99	17.4
+3) Neutral	205	36.0
+4) Disagree	124	21.8
+5) Strongly disagree	87	15.3
+Missing	1003
+
+
+218) Q75F
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: More valuable to my family
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	565	3.133	1.166
+1) Strongly agree	58	10.3
+2) Agree	95	16.8
+3) Neutral	208	36.8
+4) Disagree	122	21.6
+5) Strongly disagree	82	14.5
+Missing	1007
+
+
+219) Q75G
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: More valuable to my community
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	567	3.034	1.158
+1) Strongly agree	63	11.1
+2) Agree	109	19.2
+3) Neutral	213	37.6
+4) Disagree	110	19.4
+5) Strongly disagree	72	12.7
+Missing	1005
+
+
+220) Q75H
+If you own a gun, please indicate how strongly you agree or disagree with the following statement: Owning a gun makes me feel: Respected
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	565	2.676	1.093
+1) Strongly agree	92	16.3
+2) Agree	138	24.4
+3) Neutral	240	42.5
+4) Disagree	51	9.0
+5) Strongly disagree	44	7.8
+Missing	1007
+
+
+221) Q75_1A
+Please indicate how strongly you agree or disagree with the following statements: The government should be able to monitor everyone's email and other online activities if officials say this might prevent future terrorist attacks.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1528	2.319	1.26
+1) Strongly disagree	512	33.5
+2) Disagree	442	28.9
+3) Neutral	258	16.9
+4) Agree	207	13.5
+5) Strongly agree	109	7.1
+Missing	44
+
+
+222) Q75_1B
+Please indicate how strongly you agree or disagree with the following statements: My personal privacy would not be violated if the government had collected my telephone and Internet data.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1521	2.439	1.332
+1) Strongly disagree	492	32.3
+2) Disagree	401	26.4
+3) Neutral	233	15.3
+4) Agree	258	17.0
+5) Strongly agree	137	9.0
+Missing	51
+
+
+223) Q75_1C
+Please indicate how strongly you agree or disagree with the following statements: I would feel that my personal privacy was violated if I knew the government had collected my telephone or Internet data.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1523	3.823	1.204
+1) Strongly disagree	76	5.0
+2) Disagree	190	12.5
+3) Neutral	235	15.4
+4) Agree	448	29.4
+5) Strongly agree	574	37.7
+Missing	49
+
+
+224) Q76A
+Please indicate how strongly you agree or disagree with the following statements: Some places are haunted by spirits.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1520	2.966	1.253
+1) Strongly disagree	262	17.2
+2) Disagree	279	18.4
+3) Neutral	382	25.1
+4) Agree	443	29.1
+5) Strongly agree	154	10.1
+Missing	52
+
+
+225) Q76B
+Please indicate how strongly you agree or disagree with the following statements: There is good evidence that aliens visited Earth.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1514	2.552	1.112
+1) Strongly disagree	316	20.9
+2) Disagree	403	26.6
+3) Neutral	514	33.9
+4) Agree	205	13.5
+5) Strongly agree	76	5.0
+Missing	58
+
+
+226) Q76C
+Please indicate how strongly you agree or disagree with the following statements: Some UFOs (unidentified flying objects) really are spaceships from other planets.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1512	2.538	1.074
+1) Strongly disagree	319	21.1
+2) Disagree	365	24.1
+3) Neutral	584	38.6
+4) Agree	184	12.2
+5) Strongly agree	60	4.0
+Missing	60
+
+
+227) Q76D
+Please indicate how strongly you agree or disagree with the following statements: Some people can use the power of their minds to move objects without touching them.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1514	2.489	1.092
+1) Strongly disagree	333	22.0
+2) Disagree	440	29.1
+3) Neutral	455	30.1
+4) Agree	239	15.8
+5) Strongly agree	47	3.1
+Missing	58
+
+
+228) Q76E
+Please indicate how strongly you agree or disagree with the following statements: Some people can use the power of their minds to communicate with the dead.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1516	2.518	1.149
+1) Strongly disagree	361	23.8
+2) Disagree	392	25.9
+3) Neutral	445	29.4
+4) Agree	252	16.6
+5) Strongly agree	66	4.4
+Missing	56
+
+
+229) Q76F
+Please indicate how strongly you agree or disagree with the following statements: Bigfoot will one day be discovered.
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	1510	2.136	1.026
+1) Strongly disagree	511	33.8
+2) Disagree	443	29.3
+3) Neutral	431	28.5
+4) Agree	90	6.0
+5) Strongly agree	35	2.3
+Missing	62
+
+
+230) Q76_1A
+Please answer the following questions without consulting any written sources, Internet sites, or people. We have seasons because the Earth travels closer to the sun in the summer months and farther away during winter months.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1465	1.368	0.482
+1) True	926	63.2
+2) False	539	36.8
+Missing	107
+
+
+231) Q76_1B
+Please answer the following questions without consulting any written sources, Internet sites, or people. The Earth's continents have been slowly drifting for millions of years.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1458	1.163	0.369
+1) True	1221	83.7
+2) False	237	16.3
+Missing	114
+
+
+232) Q76_1C
+Please answer the following questions without consulting any written sources, Internet sites, or people. These days, most radiation comes from man-made sources.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1466	1.48	0.5
+1) True	763	52.0
+2) False	703	48.0
+Missing	106
+
+
+233) Q76_1D
+Please answer the following questions without consulting any written sources, Internet sites, or people. When a bullet is shot straight out over a cliff it begins falling the instant it leaves the gun.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1447	1.555	0.497
+1) True	644	44.5
+2) False	803	55.5
+Missing	125
+
+
+234) Q76_1E
+Please answer the following questions without consulting any written sources, Internet sites, or people. The sun sets in the west because the earth orbits the sun in a westward direction.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1424	1.563	0.496
+1) True	622	43.7
+2) False	802	56.3
+Missing	148
+
+
+235) Q76_1F
+Please answer the following questions without consulting any written sources, Internet sites, or people. Ice floats on water because water absorbs air as it freezes.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1419	1.456	0.498
+1) True	772	54.4
+2) False	647	45.6
+Missing	153
+
+
+236) Q76_1G
+Please answer the following questions without consulting any written sources, Internet sites, or people. The glow from a traditional light bulb is caused by the high temperature of the wire inside the bulb.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1424	1.277	0.448
+1) True	1029	72.3
+2) False	395	27.7
+Missing	148
+
+
+237) Q76_1H
+Please answer the following questions without consulting any written sources, Internet sites, or people. Stem cells are only found in embryos.
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1438	1.75	0.433
+1) True	360	25.0
+2) False	1078	75.0
+Missing	134
+
+
+238) Q77
+What is your gender?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1536	1.579	0.494
+1) Male	647	42.1
+2) Female	889	57.9
+Missing	36
+
+
+239) Q78_M
+What is your date of birth? Month of birth
+RANGE: 1 to 31
+	N	Mean	Std. Deviation
+Total	1421	6.691	3.562
+1) 	123	8.7
+2) 	109	7.7
+3) 	110	7.7
+4) 	109	7.7
+5) 	101	7.1
+6) 	104	7.3
+7) 	122	8.6
+8) 	137	9.6
+9) 	141	9.9
+10) 	120	8.4
+11) 	128	9.0
+12) 	113	8.0
+14) 	1	0.1
+19) 	1	0.1
+25) 	1	0.1
+31) 	1	0.1
+Missing	151
+
+
+240) Q78_Y
+What is your date of birth? Year of birth
+RANGE: 1915 to 1995
+	N	Mean	Std. Deviation
+Total	1468	1961.355	17.018
+1915) 	2	0.1
+1918) 	1	0.1
+1919) 	2	0.1
+1920) 	2	0.1
+1921) 	2	0.1
+1922) 	4	0.3
+1923) 	3	0.2
+1924) 	5	0.3
+1925) 	2	0.1
+1926) 	5	0.3
+1927) 	2	0.1
+1928) 	4	0.3
+1929) 	6	0.4
+1930) 	10	0.7
+1931) 	2	0.1
+1932) 	7	0.5
+1933) 	10	0.7
+1934) 	9	0.6
+1935) 	18	1.2
+1936) 	10	0.7
+1937) 	10	0.7
+1938) 	16	1.1
+1939) 	15	1.0
+1940) 	20	1.4
+1941) 	15	1.0
+1942) 	28	1.9
+1943) 	19	1.3
+1944) 	20	1.4
+1945) 	19	1.3
+1946) 	27	1.8
+1947) 	40	2.7
+1948) 	24	1.6
+1949) 	29	2.0
+1950) 	27	1.8
+1951) 	31	2.1
+1952) 	33	2.2
+1953) 	37	2.5
+1954) 	26	1.8
+1955) 	40	2.7
+1956) 	39	2.7
+1957) 	33	2.2
+1958) 	33	2.2
+1959) 	24	1.6
+1960) 	24	1.6
+1961) 	26	1.8
+1962) 	36	2.5
+1963) 	25	1.7
+1964) 	30	2.0
+1965) 	33	2.2
+1966) 	21	1.4
+1967) 	15	1.0
+1968) 	25	1.7
+1969) 	17	1.2
+1970) 	16	1.1
+1971) 	18	1.2
+1972) 	22	1.5
+1973) 	20	1.4
+1974) 	22	1.5
+1975) 	19	1.3
+1976) 	29	2.0
+1977) 	31	2.1
+1978) 	32	2.2
+1979) 	19	1.3
+1980) 	21	1.4
+1981) 	34	2.3
+1982) 	33	2.2
+1983) 	27	1.8
+1984) 	21	1.4
+1985) 	11	0.7
+1986) 	21	1.4
+1987) 	29	2.0
+1988) 	13	0.9
+1989) 	20	1.4
+1990) 	17	1.2
+1991) 	9	0.6
+1992) 	9	0.6
+1993) 	4	0.3
+1994) 	3	0.2
+1995) 	5	0.3
+Missing	104
+
+
+241) Q79
+Are you a citizen of the United States of America?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1541	1.027	0.163
+1) Yes	1499	97.3
+2) No	42	2.7
+Missing	31
+
+
+242) Q80
+Which of the following BEST describes the place where you now live?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1540	2.429	1.187
+1) A large city	386	25.1
+2) A suburb near a large city	416	27.0
+3) A small city or town	509	33.1
+4) A rural area	209	13.6
+8) Don't know	20	1.3
+Missing	32
+
+
+243) Q80A
+Are you or is anyone in your household current or former military?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1540	1.721	0.448
+1) Yes	429	27.9
+2) No	1111	72.1
+Missing	32
+
+
+244) Q81
+If you are employed, which of the following best describes your place of employment?
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	1423	3.384	2.134
+1) A for-profit private company, business, or individual	470	33.0
+2) A non-profit tax-exempt, or charitable organization	142	10.0
+3) Local, state, or federal government	197	13.8
+4) Self-employed	103	7.2
+5) Working without pay in a family business or farm	8	0.6
+6) Not currently employed [Skip to Q86]	503	35.3
+Missing	149
+
+
+245) Q83
+How many hours did you work last week? (Write in a number)
+RANGE: 0 to 99
+	N	Mean	Std. Deviation
+Total	938	38.687	15.35
+0) 	36	3.8
+2) 	1	0.1
+3) 	3	0.3
+4) 	4	0.4
+5) 	4	0.4
+6) 	1	0.1
+7) 	1	0.1
+8) 	4	0.4
+9) 	2	0.2
+10) 	17	1.8
+11) 	1	0.1
+12) 	11	1.2
+13) 	1	0.1
+15) 	6	0.6
+16) 	10	1.1
+17) 	2	0.2
+18) 	3	0.3
+19) 	1	0.1
+20) 	23	2.5
+21) 	1	0.1
+22) 	4	0.4
+24) 	8	0.9
+25) 	14	1.5
+28) 	9	1.0
+30) 	46	4.9
+31) 	2	0.2
+32) 	12	1.3
+33) 	3	0.3
+34) 	4	0.4
+35) 	33	3.5
+36) 	12	1.3
+37) 	8	0.9
+38) 	15	1.6
+39) 	4	0.4
+40) 	290	30.9
+41) 	2	0.2
+42) 	15	1.6
+43) 	11	1.2
+44) 	9	1.0
+45) 	55	5.9
+46) 	5	0.5
+47) 	2	0.2
+48) 	21	2.2
+49) 	6	0.6
+50) 	103	11.0
+51) 	3	0.3
+52) 	3	0.3
+53) 	3	0.3
+54) 	4	0.4
+55) 	16	1.7
+56) 	2	0.2
+57) 	1	0.1
+58) 	2	0.2
+60) 	44	4.7
+62) 	2	0.2
+64) 	1	0.1
+65) 	7	0.7
+68) 	1	0.1
+70) 	9	1.0
+72) 	3	0.3
+73) 	1	0.1
+74) 	1	0.1
+75) 	2	0.2
+80) 	4	0.4
+84) 	1	0.1
+92) 	2	0.2
+99) 	1	0.1
+Missing	634
+
+
+246) Q84
+About how many people work for your employer (including part-time and full-time employees at all locations)?
+RANGE: 1 to 5
+	N	Mean	Std. Deviation
+Total	921	3.149	1.406
+1) 1-5	133	14.4
+2) 6-49	204	22.1
+3) 50-499	225	24.4
+4) 500-1,999	111	12.1
+5) 2,000 or more	248	26.9
+Missing	651
+
+
+247) Q85
+Is your current employer a locally-owned business?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	933	1.915	1.57
+1) Yes	397	42.6
+2) No	483	51.8
+8) I'm not sure	53	5.7
+Missing	639
+
+
+248) Q86
+Have you ever started a new business?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1507	1.738	0.44
+1) Yes	395	26.2
+2) No	1112	73.8
+Missing	65
+
+
+249) Q87
+Are you currently trying to start a new business?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1509	1.924	0.264
+1) Yes	114	7.6
+2) No	1395	92.4
+Missing	63
+
+
+250) Q87A
+In the past five years, have you or someone in your household lost a job because of the bad economy?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1518	1.691	0.462
+1) Yes	469	30.9
+2) No	1049	69.1
+Missing	54
+
+
+251) Q87B
+Was the person unemployed for a month or longer?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	1492	5.499	3.297
+1) Yes	450	30.2
+2) No	97	6.5
+8) Don't know	945	63.3
+Missing	80
+
+
+252) Q88A
+What is your race? White
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1303	1.1	0.3
+1) Yes	1173	90.0
+2) No	130	10.0
+Missing	269
+
+
+253) Q88B
+What is your race? Black or African-American
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	822	1.782	0.413
+1) Yes	179	21.8
+2) No	643	78.2
+Missing	750
+
+
+254) Q88C
+What is your race? American Indian or Alaska Native
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	722	1.96	0.196
+1) Yes	29	4.0
+2) No	693	96.0
+Missing	850
+
+
+255) Q88D
+What is your race? Asian
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	730	1.953	0.211
+1) Yes	34	4.7
+2) No	696	95.3
+Missing	842
+
+
+256) Q88E
+What is your race? Native Hawaiian or other Pacific Islander
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	715	1.994	0.075
+1) Yes	4	0.6
+2) No	711	99.4
+Missing	857
+
+
+257) Q88F
+What is your race? Some other race (please specify)
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	672	1.914	0.281
+1) Yes	58	8.6
+2) No	614	91.4
+Missing	900
+
+
+258) Q89
+If you are Hispanic or Latino, which of the following are you?
+RANGE: 1 to 8
+	N	Mean	Std. Deviation
+Total	906	1.521	1.323
+1) I am not Hispanic or Latino	714	78.8
+2) Mexican, Mexican-American, Chicano	98	10.8
+3) Puerto Rican	19	2.1
+4) Cuban	15	1.7
+5) Other Hispanic, Latino, or Spanish origin group	43	4.7
+8) I don't know	17	1.9
+Missing	666
+
+
+259) Q90
+What is the highest level of education you have completed? (Please mark only one box.)
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	1501	5.007	1.603
+1) 8th grade or less	22	1.5
+2) 9th-12th grade (no high school diploma)	67	4.5
+3) High school graduate	201	13.4
+4) Some college	362	24.1
+5) Trade/Technical/Vocational training	121	8.1
+6) College graduate	393	26.2
+7) Postgraduate work/Degree	335	22.3
+Missing	71
+
+
+260) Q91
+If you did not do any work last week for pay or profit, what is the reason?
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	761	3.668	1.775
+1) I am a homemaker	93	12.2
+2) I am a student	46	6.0
+3) I am retired	327	43.0
+4) I have a disability or injury	93	12.2
+5) I am looking for work	59	7.8
+6) I was on vacation or leave	43	5.7
+7) Other	100	13.1
+Missing	811
+
+
+261) Q91A
+In the past five years, have you or someone you know faced home foreclosure?
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1499	1.665	0.472
+1) Yes	502	33.5
+2) No	997	66.5
+Missing	73
+
+
+262) Q92
+How many children do you have? (Write in a number)
+RANGE: 0 to 51
+	N	Mean	Std. Deviation
+Total	1117	2.431	2.288
+0) 	42	3.8
+1) 	231	20.7
+2) 	426	38.1
+3) 	256	22.9
+4) 	97	8.7
+5) 	36	3.2
+6) 	15	1.3
+7) 	3	0.3
+8) 	2	0.2
+9) 	4	0.4
+10) 	1	0.1
+13) 	1	0.1
+29) 	1	0.1
+30) 	1	0.1
+51) 	1	0.1
+Missing	455
+
+
+263) Q92_NONE
+How many children do you have? (Write in a number) If none, mark here [Skip to Q94]
+RANGE: 1 to 1
+	N	Mean	Std. Deviation
+Total	401	1	0
+1) None	401	100.0
+Missing	1171
+
+
+264) Q92A
+How old were you when your first child was born? (Write in a number)
+RANGE: 0 to 62
+	N	Mean	Std. Deviation
+Total	1070	25.346	6.127
+0) 	3	0.3
+2) 	1	0.1
+4) 	1	0.1
+15) 	7	0.7
+16) 	15	1.4
+17) 	26	2.4
+18) 	45	4.2
+19) 	65	6.1
+20) 	64	6.0
+21) 	84	7.9
+22) 	80	7.5
+23) 	63	5.9
+24) 	75	7.0
+25) 	62	5.8
+26) 	72	6.7
+27) 	57	5.3
+28) 	61	5.7
+29) 	51	4.8
+30) 	49	4.6
+31) 	30	2.8
+32) 	27	2.5
+33) 	35	3.3
+34) 	20	1.9
+35) 	15	1.4
+36) 	15	1.4
+37) 	9	0.8
+38) 	9	0.8
+39) 	4	0.4
+40) 	9	0.8
+41) 	4	0.4
+42) 	3	0.3
+43) 	1	0.1
+44) 	2	0.2
+45) 	3	0.3
+51) 	1	0.1
+57) 	1	0.1
+62) 	1	0.1
+Missing	502
+
+
+265) Q93
+How many children under the age of 18 currently live in your household? (Write in a number)
+RANGE: 0 to 6
+	N	Mean	Std. Deviation
+Total	542	1.327	1.097
+0) 	142	26.2
+1) 	177	32.7
+2) 	148	27.3
+3) 	60	11.1
+4) 	10	1.8
+5) 	4	0.7
+6) 	1	0.2
+Missing	1030
+
+
+266) Q93_NONE
+How many children under the age of 18 currently live in your household? (Write in a number) If none, mark here
+RANGE: 1 to 1
+	N	Mean	Std. Deviation
+Total	704	1	0
+1) None	704	100.0
+Missing	868
+
+
+267) Q94
+Which of the following best describes you?
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1484	2.947	0.377
+1) Gay, lesbian, or homosexual	42	2.8
+2) Bisexual	21	1.4
+3) Heterosexual or straight	1395	94.0
+4) Don't know	26	1.8
+Missing	88
+
+
+268) Q95
+By your best estimate, what was your total household income last year, before taxes?
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	1467	4.151	1.708
+1) $10,000 or less	137	9.3
+2) $10,001 - $20,000	151	10.3
+3) $20,001 - $35,000	224	15.3
+4) $35,001 - $50,000	221	15.1
+5) $50,001 - $100,000	429	29.2
+6) $100,001 - $150,000	185	12.6
+7) $150,001 or more	120	8.2
+Missing	105
+
+
+269) BAYLOR_2014_LANGUAGE
+Baylor 2014 Language
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1572	1.022	0.146
+1) 	1538	97.8
+2) 	34	2.2
+
+
+270) AGE
+Age
+RANGE: 0 to 99
+	N	Mean	Std. Deviation
+Total	1572	49.162	21.019
+0) 	104	6.6
+19) 	5	0.3
+20) 	3	0.2
+21) 	4	0.3
+22) 	9	0.6
+23) 	9	0.6
+24) 	17	1.1
+25) 	20	1.3
+26) 	13	0.8
+27) 	29	1.8
+28) 	21	1.3
+29) 	11	0.7
+30) 	21	1.3
+31) 	27	1.7
+32) 	33	2.1
+33) 	34	2.2
+34) 	21	1.3
+35) 	19	1.2
+36) 	32	2.0
+37) 	31	2.0
+38) 	29	1.8
+39) 	19	1.2
+40) 	22	1.4
+41) 	20	1.3
+42) 	22	1.4
+43) 	18	1.1
+44) 	16	1.0
+45) 	17	1.1
+46) 	25	1.6
+47) 	15	1.0
+48) 	21	1.3
+49) 	33	2.1
+50) 	30	1.9
+51) 	25	1.6
+52) 	36	2.3
+53) 	26	1.7
+54) 	24	1.5
+55) 	24	1.5
+56) 	33	2.1
+57) 	33	2.1
+58) 	39	2.5
+59) 	40	2.5
+60) 	26	1.7
+61) 	37	2.4
+62) 	33	2.1
+63) 	31	2.0
+64) 	27	1.7
+65) 	29	1.8
+66) 	24	1.5
+67) 	40	2.5
+68) 	27	1.7
+69) 	19	1.2
+70) 	20	1.3
+71) 	19	1.2
+72) 	28	1.8
+73) 	15	1.0
+74) 	20	1.3
+75) 	15	1.0
+76) 	16	1.0
+77) 	10	0.6
+78) 	10	0.6
+79) 	18	1.1
+80) 	9	0.6
+81) 	10	0.6
+82) 	7	0.4
+83) 	2	0.1
+84) 	10	0.6
+85) 	6	0.4
+86) 	4	0.3
+87) 	2	0.1
+88) 	5	0.3
+89) 	2	0.1
+90) 	5	0.3
+91) 	3	0.2
+92) 	4	0.3
+93) 	2	0.1
+94) 	2	0.1
+95) 	2	0.1
+96) 	1	0.1
+99) 	2	0.1
+
+
+271) AGE_VALID
+Age valid
+RANGE: 1 to 1
+	N	Mean	Std. Deviation
+Total	1468	1	0
+1) 	1468	100.0
+Missing	104
+
+
+272) STRATUM_KEY
+Stratum key
+RANGE: 11 to 43
+	N	Mean	Std. Deviation
+Total	1572	36.005	9.997
+11) 	45	2.9
+12) 	48	3.1
+13) 	41	2.6
+21) 	72	4.6
+22) 	45	2.9
+23) 	64	4.1
+31) 	60	3.8
+32) 	45	2.9
+33) 	91	5.8
+41) 	209	13.3
+42) 	486	30.9
+43) 	366	23.3
+
+
+273) STATE
+State
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	1572	0	0
+
+
+274) PROJWT
+Projwt
+RANGE: 17054.9126606825 to 271892.499621655
+	N	Mean	Std. Deviation
+Total	1572	74395.087	60437.17
+
+
+275) WEIGHT
+Weight
+RANGE: 0.229247836918291 to 3.65471044341763
+	N	Mean	Std. Deviation
+Total	1572	1	0.812
+
+
+276) Q2
+If possible, please provide the specific name of your denomination/sect. For example, if you are Baptist, are you Southern Baptist Convention, American Baptist Churches in the USA, or some other Baptist denomination?
+RANGE: 0 to 0
+	N	Mean	Std. Deviation
+Total	702	0	0
+
+
+277) RELTRAD
+Religious Tradition
+RANGE: 1 to 7
+	N	Mean	Std. Deviation
+Total	1481	3.313	2.097
+1) Evangelical Protestant	421	28.4
+2) Mainline Protestant	250	16.9
+3) Black Protestant	106	7.2
+4) Catholic	369	24.9
+5) Jewish	33	2.2
+6) Other	88	5.9
+7) No Affiliation	214	14.4
+Missing	91
+
+
+278) I-GENDER
+What is your gender? (for use with online analysis)
+RANGE: 1 to 2
+	N	Mean	Std. Deviation
+Total	1536	1.579	0.494
+1) Male	647	42.1
+2) Female	889	57.9
+Missing	36
+
+
+279) I-EDUC
+What is the highest level of education you have completed? (Please mark only one box.) (Recoded for use with online analysis)
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	1501	4.021	1.57
+1) Less than high school (no diploma)	89	5.9
+2) High school graduate	201	13.4
+3) Some college	362	24.1
+4) Trade/Technical/Vocational training	121	8.1
+5) College graduate	393	26.2
+6) Postgraduate work/Degree	335	22.3
+Missing	71
+
+
+280) I-MARITAL
+What is your current marital status? (Recoded for use with online analysis)
+RANGE: 1 to 4
+	N	Mean	Std. Deviation
+Total	1554	2.134	0.827
+1) Single/never married	309	19.9
+2) Married or living as married/partnered	859	55.3
+3) Separated or divorced	254	16.3
+4) Widowed	132	8.5
+Missing	18
+
+
+281) I-RELIGION
+Religious Tradition (Recoded for use with online analysis)
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	1481	3.109	1.781
+1) Evangelical Protestant	421	28.4
+2) Mainline Protestant	250	16.9
+3) Black Protestant	106	7.2
+4) Catholic	369	24.9
+5) Jewish or other	121	8.2
+6) No Affiliation	214	14.4
+Missing	91
+
+
+282) I-ATTEND
+How often do you attend religious services at a place of worship? (Recoded for use with online analysis)
+RANGE: 1 to 6
+	N	Mean	Std. Deviation
+Total	1556	3.578	1.95
+1) Never	378	24.3
+2) Less than once a year	123	7.9
+3) Once to several times a year	320	20.6
+4) Once to three times a month	158	10.2
+5) About weekly	111	7.1
+6) Weekly or several times a week	466	29.9
+Missing	16
+
+

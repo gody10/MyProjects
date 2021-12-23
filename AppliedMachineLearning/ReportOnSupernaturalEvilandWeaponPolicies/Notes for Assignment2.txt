@@ -1,0 +1,90 @@
+ that Protestants—often identified with a dummy variable in regression models—are more likely to own guns than 
+persons from Catholic, non-Christian (especially Jewish), and non-religious backgrounds
+
+
+Protestants and mainline Protestants.
+This work typically finds that elevated rates of gun ownership are confined mainly to the more conservative 
+Protestants, as compared with their mainline counterparts
+showed that youths raised in conservative Protestant households tend to have easier access to firearms than 
+other adolescents
+
+These studies have occasionally found that regular churchgoers are less inclined to own or carry firearms 
+than other persons
+
+ On one hand, white evangelical Protestants are similar to other Americans in their high levels of support
+ for certain gun policy measures
+On the other hand, they are much less likely to support other restrictions. For example, according to the 
+Pew data white evangelicals report lower levels of support than other Americans for bans on assault-style weapons
+
+
+white evangelicals are disproportionately opposed to stricter gun control laws, and they are also much more 
+inclined than others to support loosening existing gun regulations
+
+They concluded that Christian nationalists fully embrace the guarantees afforded by 
+the Second Amendment as “God-given” liberties.
+
+For example, the belief that Satan is active in the material world has been linked with increased support
+for conservative ideology and GOP politics (e.g., Wilcox et al. 1991), as well as intolerance of sexual 
+and racial minorities
+
+individuals who believe that a cosmic battle between good and evil is being waged here on earth,
+may be especially fearful and vigilant
+For individuals who perceive the world in this way, gun ownership may well be seen as a necessary risk reduction
+ strategy.
+
+Lastly, many evangelical leaders have made claims that Christians are more persecuted than other groups.
+ After all, if there is a war against Christianity, then it stands to reason that Christians must be ready 
+to protect their beliefs from the “evil” of secularization.
+
+First, we expect that belief in supernatural evil will be associated with more liberal gun policy attitudes 
+(i.e., those that increase the availability of firearms to civilians). Second, given the associations between
+ supernatural evil belief and political ideology
+
+To test these hypotheses, we use data from Wave Four of the Baylor Religion Survey (BRS), which was conducted in
+ January of 2014.
+Briefly, the BRS is a national random sample of 1572 non-institutionalized respondents ages 18 and over who reside in the continental 
+United States.
+ However, there are a few notable discrepancies (e.g., racial/ethnic minority groups are underrepresented in the BRS)
+. Consequently, our analyses are based on weighted data; BRS sample weights account for differential
+ selection and differential response and bring our sample characteristics into alignment with those of 
+τhe adult population of the continental United States
+
+Dependent variables: gun policy attitudes
+BRS respondents were asked a series of eight items gauging their support for the following 
+specific firearms policies
+
+
+Religious variables
+The measure of our focal predictor variable, belief in supernatural evil, is based on a three-item index.
+
+
+Other variables
+
+
+Multivariate analyses also control for background variables that are known correlates of gun ownership and 
+policy preference
+including: gender etc
+
+
+Overall, these findings align well with the hypotheses that have guided this study. Belief in supernatural 
+evil is consistently linked with approval of measures that would ensure that civilians will retain access
+ to firearms—especially powerful and high-capacity defensive weapons—and that they can carry weapons concealed
+ in a variety of public settings. 
+
+Logistic Regression:
+
+More armed teachers = 1.32 in paper, 1.10 in my study
+Concealed weapons = 1.38 in paper, 1.04 in my study
+MoreArmedSecurityatSchools = 1.6479 sn
+MoreTeachersFacultywithGuns = 1.10549639 sn
+CivilianHandGunPossessionBan = 1.06109908 sn
+
+Political Ideology:
+
+MoreTeachersFacultywithGuns = 0.56819406
+MoreArmedSecurityatSchools = 1.20775223
+Concealed weapons = 0.60394342
+
+
+
+
