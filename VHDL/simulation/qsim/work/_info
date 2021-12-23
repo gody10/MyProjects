@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\Odysseas\Desktop\Ergasia vhdl 3\simulation\qsim
+vsimpleCPU
+Z1 !s100 <:<@kYSja>P:5]`AK7`mo0
+Z2 Ig3@;Sl`Wi1T^Jb_nd<J_h3
+Z3 VX2?diJ0;60@NHW=g_UWPi1
+Z4 dC:\Users\Odysseas\Desktop\Ergasia vhdl 3\simulation\qsim
+Z5 w1558974892
+Z6 8simpleCPU.vo
+Z7 FsimpleCPU.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|simpleCPU.vo|
+Z10 o-work work -O0
+Z11 nsimple@c@p@u
+!i10b 1
+!s85 0
+Z12 !s108 1558974893.255000
+Z13 !s107 simpleCPU.vo|
+!s101 -O0
+vsimpleCPU_vlg_check_tst
+!i10b 1
+Z14 !s100 Pll9gYg[Ne`U<cIUEaiae1
+Z15 Iz1HjG]Uo<>4h`JaD8OMbE2
+Z16 VAce]8>aoaH<nkRdDghjA81
+R4
+Z17 w1558974891
+Z18 8simpleCPU.vt
+Z19 FsimpleCPU.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z20 !s108 1558974893.409000
+Z21 !s107 simpleCPU.vt|
+Z22 !s90 -work|work|simpleCPU.vt|
+!s101 -O0
+R10
+Z23 nsimple@c@p@u_vlg_check_tst
+vsimpleCPU_vlg_sample_tst
+!i10b 1
+Z24 !s100 cza0lkM4[Q>LeJzd7]8V11
+Z25 IFMGcKMPd5g]nOz`dgD1fK2
+Z26 V4jlCKf;6eE^U`kR_79l6R1
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 nsimple@c@p@u_vlg_sample_tst
+vsimpleCPU_vlg_vec_tst
+!i10b 1
+!s100 8_ABZ5T^`g67GO1j29a^L0
+Ia1ZYAH7=fTn`gH9jQ6YWI0
+Z28 VFS_l?mWBVjQbM19?CXL?>2
+R4
+R17
+R18
+R19
+Z29 L0 454
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 nsimple@c@p@u_vlg_vec_tst
